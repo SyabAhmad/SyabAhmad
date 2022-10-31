@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 - 🔭: i know basics of bash Scripting
 
 - :seedling: Exploring Technical Content Writing.
+- :seedling: Coding Sites
+- :seedling: Dark Web
+- :seedling: Coding Challenges
+- :seedling: Free Sites for Profissional Notes
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
