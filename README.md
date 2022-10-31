@@ -39,7 +39,18 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 - :telescope: I am currently working on Java Desktop Development
-- :telescope: 
+- :telescope: I am a C++ intermediate Developer
+- :telescope: I am Expert in HTML and CSS
+- 🔭: i know basics of PHP
+- 🔭: i know basics of mySql
+- :telescope: i know Basics of Python
+- 🔭: i know Bootstape
+- 🔭: i know Prototyping
+- 🔭: i know Office Tools
+- 🔭: i know adobe Photoshop, XD, Premiere
+- 🔭: i know wondershare filmora as a video editor
+- 🔭: i know basics of kali linux, (how to operate)
+- 🔭: i know basics of bash Scripting
 
 - :seedling: Exploring Technical Content Writing.
 
