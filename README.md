@@ -52,13 +52,16 @@ Here are some ideas to get you started:
 - 🔭: i know basics of kali linux, (how to operate)
 - 🔭: i know basics of bash Scripting
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring ⬇️
+- :seedling: Technical Content Writing.
 - :seedling: Coding Sites
 - :seedling: Dark Web
 - :seedling: Coding Challenges
 - :seedling: Free Sites for Profissional Notes
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks.
+- :zap: i do Code in w3scool,
+- :zap: i do code at frontendmentor for web development.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7)
 
