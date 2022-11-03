@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=SyabAhmad&style=flat-square&color=blue" alt=""/>
 
 Current Projects
-https://github.com/SyabAhmad/pictures/blob/main/image_2022-11-03_150427456.png
+
 <div id="header" align="center">
   <img src="https://github.com/SyabAhmad/pictures/blob/main/Capture.PNG" width="100"/>
   <img src="https://github.com/SyabAhmad/pictures/blob/main/image_2022-11-03_150041948.png" width="100"/>
