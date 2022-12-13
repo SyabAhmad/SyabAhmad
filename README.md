@@ -114,7 +114,7 @@ Current Projects
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
 
 
 
@@ -126,6 +126,6 @@ Current Projects
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
 
 
