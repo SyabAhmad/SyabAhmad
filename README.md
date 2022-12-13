@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -40,6 +42,9 @@ Current Projects
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+
+
+
 ### :man_technologist: About Me :
 - :telescope: I am currently working on Java Desktop Development
 - :telescope: I am a C++ intermediate Developer
@@ -55,6 +60,9 @@ Current Projects
 - 🔭: i know basics of kali linux, (how to operate)
 - 🔭: i know basics of bash Scripting
 
+
+
+
 - :seedling: Exploring ⬇️
 - :seedling: Technical Content Writing.
 - :seedling: Coding Sites
@@ -62,13 +70,23 @@ Current Projects
 - :seedling: Coding Challenges
 - :seedling: Free Sites for Profissional Notes
 
+
+
+
 - :zap: In my free time, I solve problems on GeeksforGeeks.
 - :zap: i do Code in w3scool,
 - :zap: i do code at frontendmentor for web development.
 
+
+
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7)
 
+
+
+
 🛠 Language and Tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="40" height="40"/>&nbsp;
@@ -90,13 +108,24 @@ Current Projects
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya"  alt="Maya" width="40" height="40"/>&nbsp;
 
- 
+
 </div>
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
 ### :fire: My Stats :
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/anuraghazra/github-readme-stats)
 
 
