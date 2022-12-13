@@ -83,6 +83,7 @@ Current Projects
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7)
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SyabAhmad&theme=dracula&hide_border=true)
 
 
 🛠 Language and Tools
@@ -114,15 +115,24 @@ Current Projects
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SyabAhmad&theme=dracula&hide_border=true)
 
 
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyabAhmad&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="SyabAhmad" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="SyabAhmad" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=highcontrast&hide_border=true" alt="SyabAhmad" />
-</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
+
+
+
+
+### :fire: My Stats :
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
+
 
 
 
