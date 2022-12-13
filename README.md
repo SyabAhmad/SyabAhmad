@@ -114,10 +114,14 @@ Current Projects
 
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SyabAhmad&theme=dracula&hide_border=true)
+
+
+
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#SyabAhmad&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#SyabAhmad" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#SyabAhmad&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#SyabAhmad" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#SyabAhmad&theme=highcontrast&hide_border=true" alt="#SyabAhmad" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyabAhmad&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="SyabAhmad" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="SyabAhmad" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=highcontrast&hide_border=true" alt="SyabAhmad" />
 </p>
 
 
