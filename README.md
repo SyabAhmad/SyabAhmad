@@ -1,109 +1,41 @@
-### Hi there 👋
+
 
 <!--
 **SyabAhmad/SyabAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=SyabAhmad&style=flat-square&color=blue" alt=""/>
-
-Current Projects
-
-<div id="header" align="center">
-  <img src="https://github.com/SyabAhmad/pictures/blob/main/Capture.PNG" width="100"/>
-  <img src="https://github.com/SyabAhmad/pictures/blob/main/image_2022-11-03_150041948.png" width="100"/>
-</div>
-<div id="header" align="center">
-  <img src="https://github.com/SyabAhmad/pictures/blob/main/image_2022-11-03_150427456.png" width="100"/>
-  
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+<img src="https://komarev.com/ghpvc/?username=SyabAhmad&style=flat-square&color=blue" alt=""/>
 
-### :man_technologist: About Me :
-- :telescope: I am currently working on Java Desktop Development
-- :telescope: I am a C++ intermediate Developer
-- :telescope: I am Expert in HTML and CSS
-- 🔭: i know basics of PHP
-- 🔭: i know basics of mySql
-- :telescope: i know Basics of Python
-- 🔭: i know Bootstape
-- 🔭: i know Prototyping
-- 🔭: i know Office Tools
-- 🔭: i know adobe Photoshop, XD, Premiere
-- 🔭: i know wondershare filmora as a video editor
-- 🔭: i know basics of kali linux, (how to operate)
-- 🔭: i know basics of bash Scripting
+### Hi there 👋
+:man_technologist: Wanna Know About Me
+- 🔭 I’m currently working on 3 Days Challenge
+- 🌱 I’m currently learning Programming Languages
+- 👯 I’m looking to collaborate on BIG Projects
+- 🤔 I’m looking for help with anything i know
+- 💬 Ask me about anything which i know
+- 📫 How to reach me: syedsyabahmadshah@gmail.com
+- 😄 Pronouns: de Developer
+- ⚡ Fun fact: Balancing tech with introspection: unique combination!
 
-=========================================================================================================
-=========================================================================================================
-
-
-- :seedling: Exploring ⬇️
-- :seedling: Technical Content Writing.
-- :seedling: Coding Sites
-- :seedling: Dark Web
-- :seedling: Coding Challenges
-- :seedling: Free Sites for Profissional Notes
-
-
-=========================================================================================================
-=========================================================================================================
-
-
-
-- :zap: In my free time, I solve problems on GeeksforGeeks.
-- :zap: i do Code in w3scool,
-- :zap: i do code at frontendmentor for web development.
-
-
-=========================================================================================================
-=========================================================================================================
-
+</br>
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7)
-
-
-
-=========================================================================================================
-=========================================================================================================
-
-
+</br></br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SyabAhmad&theme=dracula&hide_border=true)
-
-
-
-=========================================================================================================
-=========================================================================================================
-
-
+</br></br>
 
 🛠 Language and Tools
 
@@ -127,46 +59,57 @@ Current Projects
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android"  alt="android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya"  alt="Maya" width="40" height="40"/>&nbsp;
-
-
 </div>
-
-
-
-=========================================================================================================
-=========================================================================================================
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
-
-
-
-=========================================================================================================
-=========================================================================================================
-
-
+</br></br>
 
 ### :fire: My Stats :
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-=========================================================================================================
-=========================================================================================================
-
+</br></br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
+</br></br>
+
+- :seedling: Exploring ⬇️
+- :seedling: Technical Content Writing.
+- :seedling: Coding Sites
+- :seedling: Dark Web
+- :seedling: Coding Challenges
+- :seedling: Free Sites for Profissional Notes
 
 
+</br>
+- :zap: In my free time, I solve problems on GeeksforGeeks.
+- :zap: i do Code in w3scool,
+- :zap: i do code at frontendmentor for web development.
 
-=========================================================================================================
-=========================================================================================================
+</br>
+💻 some more skills
 
+- :telescope: I am currently working on Java Desktop Development
+- :telescope: I am a C++ intermediate Developer
+- :telescope: I am Expert in HTML and CSS
 
+- 🔭: i know basics of PHP
+- 🔭: i know basics of mySql
 
+- :telescope: i know Basics of Python
+- 🔭: i know Bootstape
+
+- 🔭: i know Prototyping
+- 🔭: i know Office Tools
+
+- 🔭: i know adobe Photoshop, XD, Premiere
+- 🔭: i know wondershare filmora as a video editor
+
+- 🔭: i know basics of kali linux, (how to operate)
+- 🔭: i know basics of bash Scripting
+
+</br></br></br>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
