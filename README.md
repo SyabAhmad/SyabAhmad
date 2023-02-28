@@ -6,15 +6,22 @@
 Here are some ideas to get you started:
 
 -->
-<div align="center">
+
+### Hi there 👋, I'm Syab Ahmad, and you can call me "de Developer"
+
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="100"/>
+  <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="500"/>
+
 </div>
 
+### Profile Views 📻
+
 <img src="https://komarev.com/ghpvc/?username=SyabAhmad&style=flat-square&color=blue" alt=""/>
+
 
 ### Hi there 👋
 :man_technologist: Wanna Know About Me
@@ -30,11 +37,10 @@ Here are some ideas to get you started:
 </br>
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7)
+###- :mailbox:How to reach me: 
+- [![Linkedin Badge](https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7)
 </br></br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SyabAhmad&theme=dracula&hide_border=true)
-</br></br>
 
 🛠 Language and Tools
 
