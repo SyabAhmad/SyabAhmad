@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Syab Ahmad, and you can call me "de Developer"
 
+   ![WhatsApp Image 2023-03-01 at 9 30 48 PM](https://user-images.githubusercontent.com/81256221/222202466-0af8f9ca-5620-44bc-8030-a26067355abf.jpeg)
+
+
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
