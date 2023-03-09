@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="90" height="90"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash"  alt="Bash" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="90" height="90"/>&nbsp;
