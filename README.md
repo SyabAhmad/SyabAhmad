@@ -74,16 +74,16 @@ Here are some ideas to get you started:
 </div>
 </br></br>
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=dark&background=000000)](https://git.io/streak-stats)
-</br></br>
+</br></br> -->
 
 
 
 
-
+### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
 </br></br>
 
