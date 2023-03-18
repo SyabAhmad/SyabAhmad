@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 ### Profile Views 📻
 
 <img src="https://komarev.com/ghpvc/?username=SyabAhmad&style=flat-square&color=blue" alt=""/>
- -### To My HackerRank Account
- -https://www.hackerrank.com/syabblogger
+### To My HackerRank Profile
+   -https://www.hackerrank.com/syabblogger
+ 
+### To My CodinGame Profile
+   -https://www.codingame.com/profile/0d8e4d66ac6ccd4fac2e27791f3369db5767935
 
 ### Hi there 👋
 :man_technologist: Wanna Know About Me
