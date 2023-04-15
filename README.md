@@ -8,13 +8,19 @@ Here are some ideas to get you started:
 -->
 
 
-
-### Hi there 👋, I'm Syab Ahmad, and you can call me "de Developer"
+<div id="header" align="center">
+<!-- # Hi there 👋, I'm Syab Ahmad, and you can call me "de Developer" -->
 
 <!--    ![WhatsApp Image 2023-03-01 at 9 30 48 PM](https://user-images.githubusercontent.com/81256221/222202466-0af8f9ca-5620-44bc-8030-a26067355abf.jpeg) -->
    ![image](https://user-images.githubusercontent.com/81256221/226192226-3b40ef2c-00a4-4e3c-939f-eb4dfe3bbb54.png)
+</div>
+
+<div id="header" align="center">
+   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F724&background=FCE7FF00&center=true&vCenter=true&width=1000&lines=Hey+There+%F0%9F%91%8B;i'm+Syab+Ahmad+%22de+Developer%22;Coding+Facts;I+solve+problems+with+code%2C+and+create+opportunities+with+technology.;I+believe+in+clean+code%2C+open-source+collaboration%2C+and+continuous+learning.;I+code+for+fun%2C+for+impact%2C+and+for+the+love+of+innovation.;I'm+a+developer%2C+a+designer%2C+and+a+dreamer%2C+all+in+one." alt="Typing SVG" /></a>
 
 
+</div>
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
