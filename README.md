@@ -93,10 +93,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=dark&background=000000)](https://git.io/streak-stats)
 </br></br> -->
 
-
-
-
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&hide_progress=true)](https://github.com/SyabAhmad/github-readme-stats)
+
+### :fire: My Stats in details:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
 </br></br>
 
