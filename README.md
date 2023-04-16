@@ -146,9 +146,13 @@ Here are some ideas to get you started:
 - 🔭: i know basics of bash Scripting
 </br></br>
 
-Hey everyone, I recently created a Buy Me a Coffee account to support my work. If you enjoy what I do and would like to contribute, you can find my page here: [https://www.buymeacoffee.com/syedsyabahh]
+Hey everyone, I recently created a Buy Me a Coffee account to support my work. If you enjoy what I do and would like to contribute, you can find my page here: 
+
+☕ [https://www.buymeacoffee.com/syedsyabahh] ☕
+
 Or Just Scan the QR-Code
-![bmc_qr](https://user-images.githubusercontent.com/81256221/232290144-2f406881-c203-41ed-a117-15ec8d16faad.png)
+
+![image](https://user-images.githubusercontent.com/81256221/232290219-5447351f-ac3d-4a3d-a3d6-7ee483466d63.png)
 
  Thank you very much for your support and love
  
