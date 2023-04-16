@@ -145,6 +145,7 @@ Here are some ideas to get you started:
 - 🔭: i know basics of kali linux, (how to operate)
 - 🔭: i know basics of bash Scripting
 
+
 </br></br></br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7">
