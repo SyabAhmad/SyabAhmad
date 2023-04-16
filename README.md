@@ -104,11 +104,9 @@ Here are some ideas to get you started:
 </br></br>
 
 
-[![Syab Ahmad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SyabAhmad&theme=github-compact)](https://github.com/SyabAhmad/github-readme-activity-graph)
+[![Syab Ahmad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SyabAhmad&theme=github-compact)]
 
-<!-- <div id="header" align="center">
-<a href="https://github.com/SyabAhmad/github-readme-activity-graph"><img src="https://camo.githubusercontent.com/2e9d662d65460607d99312af8a65a126a2f24f83b9b2253ef4ee59da63d58c16/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d42455062267468656d653d6769746875622d636f6d70616374" alt="SyabAhmad's github activity graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=SyabAhmad&amp;theme=github-compact" style="max-width: 100%;"></a>
-</div> -->
+
 - :seedling: Exploring ⬇️
 - :seedling: Technical Content Writing.
 - :seedling: Coding Sites
