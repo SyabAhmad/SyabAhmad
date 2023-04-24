@@ -195,7 +195,7 @@ Or Just Scan the QR-Code
  -->
 <!-- [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7)
  -->
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@RealCoDeR)]
+![Youtube Badge](https://img.shields.io/badge/-RealCoder-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@RealCoDeR)
 
 
 
