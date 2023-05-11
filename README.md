@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-<!-- # Hi there 👋, I'm Syab Ahmad, and you can call me "de Developer" -->
+<!-- # Hi there 👋, I'm Syab Ahmad, call me "de Developer" -->
 
 <!--    ![WhatsApp Image 2023-03-01 at 9 30 48 PM](https://user-images.githubusercontent.com/81256221/222202466-0af8f9ca-5620-44bc-8030-a26067355abf.jpeg) -->
    ![linkedin3](https://user-images.githubusercontent.com/81256221/235733717-09b59c5e-2d5a-4231-9899-0fae2ee2ba4c.JPG)
