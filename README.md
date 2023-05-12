@@ -177,24 +177,19 @@ Here are some ideas to get you started:
 </br>
 💻 some more skills
 
-- :telescope: I am currently working on Java Desktop Development
+- :telescope: I am currently working on Data Science and Machine Learning
 - :telescope: I am a C++ intermediate Developer
 - :telescope: I am Expert in HTML and CSS
 
-- 🔭: i know basics of PHP
-- 🔭: i know basics of mySql
+💻 Basic skills
 
-- :telescope: i know Basics of Python
-- 🔭: i know Bootstape
+- 🔭: PHP   - 🔭: mySql  - :telescope: Python    - 🔭: Bootstape
 
-- 🔭: i know Prototyping
-- 🔭: i know Office Tools
+- 🔭: Prototyping    - 🔭: Tools    - 🔭: adobe Photoshop, XD, Premiere    
 
-- 🔭: i know adobe Photoshop, XD, Premiere
-- 🔭: i know wondershare filmora as a video editor
+- 🔭: wondershare filmora as a video editor
 
-- 🔭: i know basics of kali linux, (how to operate)
-- 🔭: i know basics of bash Scripting
+- 🔭: kali linux, (how to operate)     - 🔭: bash Scripting
 </br></br>
 
 Hey everyone, I recently created a Buy Me a Coffee account to support my work. If you enjoy what I do and would like to contribute, you can find my page here: 
