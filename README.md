@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 -->
 
-
 <div id="header" align="center">
 <!-- # Hi there 👋, I'm Syab Ahmad, call me "de Developer" -->
 
@@ -59,8 +58,14 @@ Here are some ideas to get you started:
 
 <div align="left">
    <h1>To My CodeCombat Profile</h1>
-   <img src="https://codecombat.com/images/pages/base/logo.png" width="60" height="30"/> 💻 
+   <img src="https://codecombat.com/images/pages/base/logo.png" width="60" height="35"/> 💻 
    -https://codecombat.com/user/de-developer
+</div>
+
+<div align="left">
+   <h1>To My Codewars Profile</h1>
+   <img src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" width="60" height="50"/> 💻 
+   -https://www.codewars.com/users/SyabAhmad
 </div>
 
 
