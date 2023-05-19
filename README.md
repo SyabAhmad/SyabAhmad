@@ -70,21 +70,21 @@ Here are some ideas to get you started:
 </div>
 
 
-### Hi there 👋
+#### Hi there 👋
 :man_technologist: Wanna Know About Me
-- 🔭 I’m currently working on 3 Days Challenge
-- 🌱 I’m currently learning Programming Languages
-- 👯 I’m looking to collaborate on BIG Projects
-- 🤔 I’m looking for help with anything i know
-- 💬 Ask me about anything which i know
-- 📫 How to reach me: syedsyabahmadshah@gmail.com
-- 😄 Pronouns: de Developer
-- ⚡ Fun fact: Balancing tech with introspection: unique combination!
+-  🔭 I’m currently working on 3 Days Challenge
+-  🌱 I’m currently learning Programming Languages
+-  👯 I’m looking to collaborate on BIG Projects
+-  🤔 I’m looking for help with anything i know
+-  💬 Ask me about anything which i know
+-  📫 How to reach me: syedsyabahmadshah@gmail.com
+-  😄 Pronouns: de Developer
+-  ⚡ Fun fact: Balancing tech with introspection: unique combination!
 
 </br>
 
 
-###- :mailbox:How to reach me: 
+####- :mailbox:How to reach me: 
 - [![Linkedin Badge](https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-syab-ahmad-shah-776a421b7)
 </br></br>
 
