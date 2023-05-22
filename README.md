@@ -72,14 +72,14 @@ Here are some ideas to get you started:
 
 #### Hi there 👋
 :man_technologist: Wanna Know About Me
--  🔭 I’m currently working on 3 Days Challenge
--  🌱 I’m currently learning Programming Languages
--  👯 I’m looking to collaborate on BIG Projects
--  🤔 I’m looking for help with anything i know
--  💬 Ask me about anything which i know
--  📫 How to reach me: syedsyabahmadshah@gmail.com
 -  😄 Pronouns: de Developer
+-  🔭 I’m currently working on Data Science
+-  🌱 I’m currently learning Machine Learning
+-  👯 I’m looking to collaborate on BIG Projects
+-  🤔 I’m looking for help with Data Pre-processing
+-  📫 How to reach me: syedsyabahmadshah@gmail.com
 -  ⚡ Fun fact: Balancing tech with introspection: unique combination!
+<!-- -  💬 Ask me about anything which i know -->
 
 </br>
 
