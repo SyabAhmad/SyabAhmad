@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 #### Hi there 👋
 :man_technologist: Wanna Know About Me
 -  😄 Pronouns: de Developer
--  🔭 I’m currently working on Data Science
+-  🔭 I’m currently working on Data Science and Machine Learning
 -  🌱 I’m currently learning Machine Learning
 -  👯 I’m looking to collaborate on BIG Projects
 -  🤔 I’m looking for help with Data Pre-processing
