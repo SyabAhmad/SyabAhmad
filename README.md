@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 -  👯 I’m looking to collaborate on BIG Projects
 -  🤔 I’m looking for help with Data Pre-processing
 -  📫 How to reach me: syedsyabahmadshah@gmail.com
--  ⚡ Fun fact: Balancing tech with introspection: unique combination!
+-  ⚡ Fun fact: Balancing tech with introspection: Unique combination!
 <!-- -  💬 Ask me about anything which i know -->
 
 </br>
