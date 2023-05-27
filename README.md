@@ -70,18 +70,15 @@ Here are some ideas to get you started:
 </div>
 
 
-#### Hi there 👋
-:man_technologist: Wanna Know About Me
--  😄 Pronouns: de Developer
--  🔭 I’m currently working on Data Science and Machine Learning
--  🌱 I’m currently learning Machine Learning
--  👯 I’m looking to collaborate on BIG Projects
--  🤔 I’m looking for help with Data Pre-processing
--  📫 How to reach me: syedsyabahmadshah@gmail.com
--  ⚡ Fun fact: Balancing tech with introspection: Unique combination!
-<!-- -  💬 Ask me about anything which i know -->
+Hi there! 👋
+:man_technologist: About Me:
 
-</br>
+🔭 Currently working on Data Science and Machine Learning
+🌱 Learning more about Machine Learning
+👯 Interested in collaborating on BIG Projects
+🤔 Seeking help with Data Pre-processing
+📫 Reach me at: syedsyabahmadshah@gmail.com
+⚡ Fun fact: Balancing tech with introspection - a unique combination!
 
 
 ####- :mailbox:How to reach me: 
@@ -116,7 +113,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya"  alt="Maya" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="90" height="90"/>&nbsp;
   
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!--    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -143,7 +140,7 @@ Here are some ideas to get you started:
 <!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
-<!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
+<!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) --> -->
    
 </div>
 </br></br>
@@ -163,7 +160,7 @@ Here are some ideas to get you started:
 <!-- (https://github.com/SyabAhmad/github-readme-stats) -->
 </br></br>
 
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!--    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -191,7 +188,7 @@ Here are some ideas to get you started:
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
-
+ -->
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=hacker)
 <!-- (https://git.io/streak-stats) -->
@@ -200,37 +197,47 @@ Here are some ideas to get you started:
 
 ![Syab Ahmad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SyabAhmad&theme=github-compact)
 
+💻 Technical Content Writing:
 
-- :seedling: Exploring ⬇️
-- :seedling: Technical Content Writing.
-- :seedling: Coding Sites
-- :seedling: Dark Web
-- :seedling: Coding Challenges
-- :seedling: Free Sites for Profissional Notes
+Exploring technical writing in various domains and improving writing skills.
+💻 Coding Sites:
+
+      GeeksforGeeks: Solving coding problems and practicing algorithms and data structures.
+
+      W3Schools: Using it as a reference for coding in HTML, CSS, and other web development technologies.
+
+      Frontend Mentor: Engaging in coding challenges and projects to enhance web development skills.
 
 
-</br>
-- :zap: In my free time, I solve problems on GeeksforGeeks.
-- :zap: i do Code in w3scool,
-- :zap: i do code at frontendmentor for web development.
+💻 Free Sites for Professional Notes:
 
-</br>
-💻 some more skills
+      Exploring online platforms that offer free resources for professional notes and study materials.
 
-- :telescope: I am currently working on Data Science and Machine Learning
-- :telescope: I am a C++ intermediate Developer
-- :telescope: I am Expert in HTML and CSS
+💻 Additional Skills:
 
-💻 Basic skills
+      Data Science and Machine Learning: Currently working on projects and expanding knowledge in this field.
 
-- 🔭: PHP   - 🔭: mySql  - :telescope: Python    - 🔭: Bootstape
+      C++: Intermediate level programming skills in C++ language.
 
-- 🔭: Prototyping    - 🔭: Tools    - 🔭: adobe Photoshop, XD, Premiere    
+      HTML and CSS: Expertise in front-end web development using HTML and CSS.
 
-- 🔭: wondershare filmora as a video editor
+💻 Basic Skills:
 
-- 🔭: kali linux, (how to operate)     - 🔭: bash Scripting
-</br></br>
+      PHP: Basic knowledge of PHP programming language.
+
+      MySQL: Basic understanding of MySQL database management.
+
+      Python: Basic familiarity with Python programming language.
+
+      Bootstrap: Proficiency in using Bootstrap framework for responsive web design.
+
+      Prototyping: Creating prototypes for web and application designs.
+
+      Tools: Working with tools such as Adobe Photoshop, Adobe XD, and Adobe Premiere for design and editing purposes.
+
+      Video Editing: Proficiency in using Wondershare Filmora for video editing.
+
+      Bash Scripting: Knowledge of writing scripts in the Bash programming language.
 
 Hey everyone, I recently created a Buy Me a Coffee account to support my work. If you enjoy what I do and would like to contribute, you can find my page here: 
 
