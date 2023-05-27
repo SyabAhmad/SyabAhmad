@@ -71,13 +71,19 @@ Here are some ideas to get you started:
 
 
 Hi there! 👋
+
 :man_technologist: About Me:
 
 🔭 Currently working on Data Science and Machine Learning
+
 🌱 Learning more about Machine Learning
+
 👯 Interested in collaborating on BIG Projects
+
 🤔 Seeking help with Data Pre-processing
+
 📫 Reach me at: syedsyabahmadshah@gmail.com
+
 ⚡ Fun fact: Balancing tech with introspection - a unique combination!
 
 
