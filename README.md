@@ -146,7 +146,7 @@ Hi there! 👋
 <!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
-<!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) --> -->
+<!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
    
 </div>
 </br></br>
@@ -194,7 +194,7 @@ Hi there! 👋
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
- -->
+ 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=hacker)
 <!-- (https://git.io/streak-stats) -->
@@ -202,6 +202,7 @@ Hi there! 👋
 
 
 ![Syab Ahmad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SyabAhmad&theme=github-compact)
+
 
 💻 Technical Content Writing:
 
