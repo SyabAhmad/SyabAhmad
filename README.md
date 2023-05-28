@@ -16,6 +16,31 @@
    <img src="https://user-images.githubusercontent.com/81256221/235733717-09b59c5e-2d5a-4231-9899-0fae2ee2ba4c.JPG" width="600" alt="Profile Picture"/>
 </div>
 <br><br><br>
+
+<table width="100" >
+  <tr>
+    <td align='center'>
+      <b>Currently learning</b>
+    </td>
+    <td align='center'>
+      <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" title="Python">
+    </td>
+    <td align='center'>
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="NumPy" title="NumPy">
+    </td>
+    <td align='center'>
+      <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" alt="Pandas" title="Pandas">
+    </td>
+    <td align='center'>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow" title="TensorFlow">
+    </td>
+  </tr>
+</table>
+
+
+
+<br><br><br>
+
 <div align="left">
    <h2>Profiles</h2>
    <ul>
