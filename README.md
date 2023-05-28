@@ -69,8 +69,29 @@
    </ul>
 </div>
 
-<div align="center">
+<div align="left">
    <h2>Get in Touch</h2>
    <p>Feel free to reach out to me through LinkedIn or check out my YouTube channel for coding tutorials and tech discussions.</p>
 </div>
+
+<div align="left">
+   <h2>Profile Views 📻</h2>
+   <img src="https://komarev.com/ghpvc/?username=SyabAhmad&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="left"> 
+   <h2>How to reach me</h2>
+   <a href="https://www.linkedin.com/in/SyedSyab">
+      <img src="https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+</div>
+
+<div align="left">
+   <h2>My Stats</h2>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&hide_progress=true" alt="Top Languages"/><br><br><br><br>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=hacker" alt="GitHub Streak"/><br><br><br><br>
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SyabAhmad&theme=github-compact" alt="GitHub Activity Graph"/><br><br><br><br>
+</div>
+
+
 
