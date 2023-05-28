@@ -16,6 +16,16 @@
    <img src="https://user-images.githubusercontent.com/81256221/235733717-09b59c5e-2d5a-4231-9899-0fae2ee2ba4c.JPG" width="300" alt="Profile Picture"/>
 </div>
 
+<div align="left">
+   <h2>Profiles</h2>
+   <ul>
+      <li>HackerRank: [SyabBlogger](https://www.hackerrank.com/syabblogger)</li>
+      <li>CodinGame: [SyabAhmad](https://www.codingame.com/profile/0d8e4d66ac6ccd4fac2e27791f3369db5767935)</li>
+      <li>CodeCombat: [de-developer](https://codecombat.com/user/de-developer)</li>
+      <li>Codewars: [SyabAhmad](https://www.codewars.com/users/SyabAhmad)</li>
+   </ul>
+</div>
+
 <div align="center">
    <h2>About Me</h2>
    <p>I'm a Developer who loves solving problems with code and creating opportunities with technology. I believe in clean code, open-source collaboration, and continuous learning.</p>
@@ -47,12 +57,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
 </div>
 
-<div align="center">
+<div align="left">
    <h2>Projects</h2>
    <ul>
-      <li>Project 1: [Project Name](https://github.com/your-username/project-repo)</li>
-      <li>Project 2: [Project Name](https://github.com/your-username/project-repo)</li>
-      <li>Project 3: [Project Name](https://github.com/your-username/project-repo)</li>
+      <li>Project 1: [GPA-Calculator-Redesigned](https://github.com/SyabAhmad/GPA-Calculator-Redesigned)</li>
+      <li>Project 2: [Predicting-the-price](https://github.com/SyabAhmad/Predicting-the-price-of-a-house-using-LinearRegression)</li>
+      <li>Project 3: [Project-Pandas](https://github.com/SyabAhmad/Project-Pandas-1.0)</li>
+      <li>Project 4: [Python-Intermediate-7_Project](https://github.com/SyabAhmad/Python-Intermediate-7_Project)</li>
+      <li>Project 5: [Python-Beginner-7-Projects](https://github.com/SyabAhmad/Python-Beginner-7-Projects)</li>
+      <li>Project 6: [NumPy-a-Python-Library](https://github.com/SyabAhmad/NumPy-a-Python-Library)</li>
    </ul>
 </div>
 
