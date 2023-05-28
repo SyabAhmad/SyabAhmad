@@ -88,10 +88,16 @@
 
 <div align="left">
    <h2>My Stats</h2>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&hide_progress=true" alt="Top Languages"/><br><br><br><br>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=SyabAhmad&theme=hacker" alt="GitHub Streak"/><br><br><br><br>
-   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SyabAhmad&theme=github-compact" alt="GitHub Activity Graph"/><br><br><br><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&theme=github-compact&hide_progress=true" alt="Top Languages"/><br><br><br><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&theme=github-compact&hide_progress=false" alt="Top Languages"/><br><br><br><br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=github-compact" alt="GitHub Streak"/><br><br><br><br>
+   <br><br><br><br>
 </div>
+
+
+
+[![Syab Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SyabAhmad&theme=github-compact)](https://github.com/SyabAhmad/github-readme-activity-graph)
+
 
 
 
