@@ -32,6 +32,7 @@
    <p>I code for fun, for impact, and for the love of innovation. I'm passionate about data science and machine learning, and I'm constantly expanding my knowledge in these fields.</p>
 </div>
 
+
 <div align="center">
    <h2>Skills and Tools</h2>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
