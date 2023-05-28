@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
    <h1>Hi there! 👋</h1>
    <h2>I'm Syab Ahmad, a Developer</h2>
 </div>
 
-<div align="center">
+<div align="left">
    <a href="https://www.linkedin.com/in/SyedSyab">
       <img src="https://img.shields.io/badge/-SyabAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
@@ -33,7 +33,7 @@
 </div>
 <br><br><br>
 
-<div align="center">
+<div align="left">
    <h2>Skills and Tools</h2>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
@@ -76,12 +76,12 @@
    mailto:syedsyabahmadshah@gmail.com
 </div>
 <br><br><br>
-<div align="center">
+<div align="left">
    <h2>Profile Views 📻</h2>
    <img src="https://komarev.com/ghpvc/?username=SyabAhmad&style=flat-square&color=blue" alt=""/>
 </div>
 <br><br><br>
-<div align="center"> 
+<div align="left"> 
    <h2>How to reach me</h2>
    <a href="https://www.linkedin.com/in/SyedSyab">
       <img src="https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
