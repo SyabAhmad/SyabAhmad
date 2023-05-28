@@ -11,11 +11,11 @@
       <img src="https://img.shields.io/badge/-RealCoder-darkred?style=flat-square&logo=youtube&logoColor=white" alt="Youtube Badge"/>
    </a>
 </div>
-
+<br><br><br>
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/81256221/235733717-09b59c5e-2d5a-4231-9899-0fae2ee2ba4c.JPG" width="300" alt="Profile Picture"/>
+   <img src="https://user-images.githubusercontent.com/81256221/235733717-09b59c5e-2d5a-4231-9899-0fae2ee2ba4c.JPG" width="600" alt="Profile Picture"/>
 </div>
-
+<br><br><br>
 <div align="left">
    <h2>Profiles</h2>
    <ul>
@@ -25,13 +25,13 @@
       <li>Codewars: [SyabAhmad](https://www.codewars.com/users/SyabAhmad)</li>
    </ul>
 </div>
-
-<div align="center">
+<br><br><br>
+<div align="left">
    <h2>About Me</h2>
    <p>I'm a Developer who loves solving problems with code and creating opportunities with technology. I believe in clean code, open-source collaboration, and continuous learning.</p>
    <p>I code for fun, for impact, and for the love of innovation. I'm passionate about data science and machine learning, and I'm constantly expanding my knowledge in these fields.</p>
 </div>
-
+<br><br><br>
 
 <div align="center">
    <h2>Skills and Tools</h2>
@@ -57,7 +57,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
 </div>
-
+<br><br><br>
 <div align="left">
    <h2>Projects</h2>
    <ul>
@@ -69,24 +69,25 @@
       <li>Project 6: [NumPy-a-Python-Library](https://github.com/SyabAhmad/NumPy-a-Python-Library)</li>
    </ul>
 </div>
-
+<br><br><br>
 <div align="left">
    <h2>Get in Touch</h2>
    <p>Feel free to reach out to me through LinkedIn or check out my YouTube channel for coding tutorials and tech discussions.</p>
+   mailto:syedsyabahmadshah@gmail.com
 </div>
-
-<div align="left">
+<br><br><br>
+<div align="center">
    <h2>Profile Views 📻</h2>
    <img src="https://komarev.com/ghpvc/?username=SyabAhmad&style=flat-square&color=blue" alt=""/>
 </div>
-
-<div align="left"> 
+<br><br><br>
+<div align="center"> 
    <h2>How to reach me</h2>
    <a href="https://www.linkedin.com/in/SyedSyab">
       <img src="https://img.shields.io/badge/-SyabAhmad-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
 </div>
-
+<br><br><br>
 <div align="left">
    <h2>My Stats</h2>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&theme=github-compact&hide_progress=true" alt="Top Languages"/><br><br><br><br>
@@ -99,6 +100,6 @@
 
 [![Syab Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SyabAhmad&theme=github-compact)](https://github.com/SyabAhmad/github-readme-activity-graph)
 
-
+<br><br><br>
 
 
