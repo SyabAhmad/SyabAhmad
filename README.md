@@ -116,11 +116,11 @@
 </div>
 <br><br><br>
 <div align="left">
-   <h1># My Stats</h1>
+   <h1>My Stats</h1>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&theme=github-compact&hide_progress=true" alt="Top Languages"/><br><br><br><br>
-   <h1># Languages With Details</h1>
+   <h1>Languages With Details</h1>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&theme=github-compact&hide_progress=false" alt="Top Languages"/><br><br><br><br>
-   <h1># My Current Streak Rate</h1>
+   <h1>My Current Streak Rate</h1>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=github-compact" alt="GitHub Streak"/><br><br><br><br>
    <br><br><br><br>
 </div>
