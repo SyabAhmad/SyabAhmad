@@ -116,14 +116,16 @@
 </div>
 <br><br><br>
 <div align="left">
-   <h2>My Stats</h2>
+# My Stats
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&theme=github-compact&hide_progress=true" alt="Top Languages"/><br><br><br><br>
+# Languages With Details
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&theme=github-compact&hide_progress=false" alt="Top Languages"/><br><br><br><br>
+# My Current Streak Rate
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=github-compact" alt="GitHub Streak"/><br><br><br><br>
    <br><br><br><br>
 </div>
 
-
+# Activity Graph
 
 [![Syab Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SyabAhmad&theme=github-compact)](https://github.com/SyabAhmad/github-readme-activity-graph)
 
