@@ -51,14 +51,14 @@
    </ul>
 </div>
 
-<br><br><br>
+<br><br>
 
 <div align="left">
    <h2>About Me</h2>
    <p>I'm a Developer who loves solving problems with code and creating opportunities with technology. I believe in clean code, open-source collaboration, and continuous learning.</p>
    <p>I code for fun, for impact, and for the love of innovation. I'm passionate about data science and machine learning, and I'm constantly expanding my knowledge in these fields.</p>
 </div>
-<br><br><br>
+<br><br>
 
 <div align="left">
    <h2>Skills and Tools</h2>
@@ -84,7 +84,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
 </div>
-<br><br><br>
+<br><br>
 <div align="left">
    <h2>Projects</h2>
    <ul>
