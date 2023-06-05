@@ -55,8 +55,11 @@
 
 <div align="left">
    <h2>About Me</h2>
+   
    <p>I'm a Developer who loves solving problems with code and creating opportunities with technology. I believe in clean code, open-source collaboration, and continuous learning.</p>
+   
    <p>I code for fun, for impact, and for the love of innovation. I'm passionate about data science and machine learning, and I'm constantly expanding my knowledge in these fields.</p>
+   
 </div>
 <br><br>
 
