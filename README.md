@@ -7,10 +7,12 @@
    <a href="https://www.linkedin.com/in/SyedSyab">
       <img src="https://img.shields.io/badge/-SyabAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
+   
    <a href="https://www.youtube.com/@RealCoDeR">
       <img src="https://img.shields.io/badge/-RealCoder-darkred?style=flat-square&logo=youtube&logoColor=white" alt="Youtube Badge"/>
    </a>
 </div>
+
 <br><br><br>
 <div align="center">
    <img src="https://user-images.githubusercontent.com/81256221/235733717-09b59c5e-2d5a-4231-9899-0fae2ee2ba4c.JPG" width="600" alt="Profile Picture"/>
