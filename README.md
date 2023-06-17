@@ -1,6 +1,8 @@
 <div align="left">
    <h1>Hi there! 👋</h1>
+   
    <h2>I'm Syed Syab</h2>
+   
 </div>
 
 <div align="left">
