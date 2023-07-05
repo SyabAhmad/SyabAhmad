@@ -30,17 +30,21 @@
     <td align='center'>
       <b>Currently learning</b>
     </td>
+     <td align='center'>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+    </td>
+     </td>
     <td align='center'>
-      <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" title="Python">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
     </td>
     <td align='center'>
-      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="NumPy" title="NumPy">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     </td>
     <td align='center'>
-      <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" alt="Pandas" title="Pandas">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
     </td>
     <td align='center'>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow" title="TensorFlow">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
     </td>
   </tr>
 </table>
