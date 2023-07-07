@@ -142,6 +142,12 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=github-compact" alt="GitHub Streak"/><br><br><br><br>
    <br><br><br><br>
 </div> -->
+<br>
+   <h1>My Current Streak Rate</h1>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=github-compact" alt="GitHub Streak"/><br><br><br><br>
+<br>
+
+
 # Top Languages in Donut style
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&layout=donut-vertical)](https://github.com/SyabAhmad/github-readme-stats)
