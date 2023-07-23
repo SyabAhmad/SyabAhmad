@@ -13,6 +13,7 @@
 
 
 
+
    
    <a href="https://www.youtube.com/@RealCoDeR">
       <img src="https://img.shields.io/badge/-RealCoder-darkred?style=flat-square&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -21,7 +22,8 @@
 
 <br><br><br>
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/81256221/235733717-09b59c5e-2d5a-4231-9899-0fae2ee2ba4c.JPG" width="600" alt="Profile Picture"/>
+<!--    <img src="https://user-images.githubusercontent.com/81256221/235733717-09b59c5e-2d5a-4231-9899-0fae2ee2ba4c.JPG" width="600" alt="Profile Picture"/> -->
+   <img src="https://github.com/SyabAhmad/SyabAhmad/assets/81256221/d0968414-cc25-45b8-b39f-7a71d5144659" width="600" alt="Profile Picture"/>
 </div>
 <br><br><br>
 
