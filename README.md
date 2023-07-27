@@ -1,8 +1,7 @@
 <div align="left">
    
-   <h1>Hi there! 👋</h1>
+   <h1>Hi there! 👋: i am Syed Syab and i am a front-end developer</h1>
    
-   <h2>I'm Syed Syab</h2>
    
 </div>
 
