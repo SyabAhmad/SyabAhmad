@@ -50,7 +50,12 @@
   </tr>
 </table>
 
-
+<div align="left">
+   <h2>Badge</h2>
+<a target="blank" href="https://kandi.verified.cv/en/verify/16313856412009">
+      <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/badge/16313856412009.png" alt="">
+    </a>
+</div>
 
 <br><br><br>
 
