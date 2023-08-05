@@ -72,23 +72,7 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/SyedSyab)
 
-[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/syed-syab-ahmad)
 
-[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/your_stackoverflow_user_id?label=Stack%20Overflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/your_stackoverflow_user_id)
-
-[![CodePen Followers](https://img.shields.io/codepen/followers/SyedSyab?label=CodePen&logo=codepen&style=social)](https://codepen.io/SyedSyab)
-
-[![Credly Badges](https://img.shields.io/endpoint?url=https://credlyapp.com/issuer/5b7f55d1-791a-41fb-a263-0e06074acebc/public_badges&style=social)](https://credlyapp.com/issuer/5b7f55d1-791a-41fb-a263-0e06074acebc/public_badges)
-
-[![CodeCombat Followers](https://img.shields.io/badge/CodeCombat-Follow-yellow?style=social&logo=codecombat)](https://codecombat.com/de-developer)
-
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/your_youtube_channel_id?label=YouTube&logo=youtube&style=social)](https://www.youtube.com/channel/your_youtube_channel_id)
-
-[![Dribbble Followers](https://img.shields.io/dribbble/following/your_dribbble_username?label=Dribbble&logo=dribbble&style=social)](https://dribbble.com/your_dribbble_username)
-
-[![Behance Followers](https://img.shields.io/behance/following/your_behance_username?label=Behance&logo=behance&style=social)](https://www.behance.net/your_behance_username)
-
-[![Dev.to Followers](https://img.shields.io/badge/Dev.to-Follow-black?style=social&logo=dev.to)](https://dev.to/your_dev_to_username)
 
 <br><br>
 
