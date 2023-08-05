@@ -155,7 +155,7 @@
 </div> -->
 <br>
    <h1>My Current Streak Rate</h1>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=github-compact" alt="GitHub Streak"/><br><br><br><br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad" alt="GitHub Streak"/><br><br><br><br>
 <br>
 
 ![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=transparent)
