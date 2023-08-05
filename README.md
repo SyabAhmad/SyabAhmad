@@ -78,7 +78,7 @@
 
 [![CodePen Followers](https://img.shields.io/codepen/followers/SyedSyab?label=CodePen&logo=codepen&style=social)](https://codepen.io/SyedSyab)
 
-[![Credly Badges](https://img.shields.io/endpoint?url=https://credlyapp.com/issuer/5b7f55d1-791a-41fb-a263-0e06074acebc/public_badges&style=social)](https://credlyapp.com/issuer/your_credly_issuer_id/public_badges)
+[![Credly Badges](https://img.shields.io/endpoint?url=https://credlyapp.com/issuer/5b7f55d1-791a-41fb-a263-0e06074acebc/public_badges&style=social)](https://credlyapp.com/issuer/5b7f55d1-791a-41fb-a263-0e06074acebc/public_badges)
 
 [![CodeCombat Followers](https://img.shields.io/badge/CodeCombat-Follow-yellow?style=social&logo=codecombat)](https://codecombat.com/de-developer)
 
