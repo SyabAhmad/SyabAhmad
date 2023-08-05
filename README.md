@@ -50,8 +50,13 @@
   </tr>
 </table>
 
+
+<h2>Badge</h2>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5b7f55d1-791a-41fb-a263-0e06074acebc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <div align="left">
-   <h2>Badge</h2>
+   
 <a target="blank" href="https://kandi.verified.cv/en/verify/16313856412009">
       <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/badge/16313856412009.png" alt="">
     </a>
