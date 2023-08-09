@@ -30,7 +30,7 @@ Balances tech skills with introspective interests, making for a unique combinati
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
 
-
+[![Syab Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SyabAhmad&theme=github-compact)](https://github.com/SyabAhmad/github-readme-activity-graph)
 <div>
 
             
