@@ -26,6 +26,9 @@ Balances tech skills with introspective interests, making for a unique combinati
 
 ## 👇 Few things about me
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad)](https://github.com/SyabAhmad/github-readme-streak-stats)
+
+
 
 <div>
 
