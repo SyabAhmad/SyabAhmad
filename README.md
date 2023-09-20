@@ -120,9 +120,8 @@ Unsupervised machine learning to cluster the flowers in the Iris dataset
 #### JSE 1 Cisco Verified
 ```
 # Data Analysis Visualization:
-```
-You can add visualizations of your data analysis tasks using a data visualization library such as Matplotlib, Seaborn, or Plotly. Create charts or graphs that showcase your skills in data visualization and link them in your GitHub README or relevant repositories.
-```
+## Indian Movies Rating with respect to year
+![image](https://github.com/SyabAhmad/SyabAhmad/assets/81256221/0eae67f1-8c22-4cc5-a07b-e984490f4b8a)
 ## Links:
 
 ## <a href="https://www.github.com/SyabAhmad">github</a>
