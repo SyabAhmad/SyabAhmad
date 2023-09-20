@@ -56,11 +56,11 @@ Basic calculator (GitHub)
 
 Getting Data from API (GitHub)
 
-### Data Science and Business Analyst Intern
+## Data Science and Business Analyst Intern
 
 The Spark Foundation, Singapore
 
-#### Notable Projects:
+### Notable Projects:
 
 Testing a score with respect to hours
 
@@ -68,69 +68,69 @@ Exploratory Data Analysis
 
 Unsupervised machine learning to cluster the flowers in the Iris dataset
 
-## Education:
+# Education:
 
-### Bachelor of Science: Software Engineering, University Of Swat, Charbagh, Pakistan (CGPA 3.1)
+## Bachelor of Science: Software Engineering, University Of Swat, Charbagh, Pakistan (CGPA 3.1)
 
-### Higher Secondary School Certificate (Pre-Engineering), GHSS Haji Baba Swat (Grade: 634 out of 1100)
+## Higher Secondary School Certificate (Pre-Engineering), GHSS Haji Baba Swat (Grade: 634 out of 1100)
 
-## Certifications:
+# Certifications:
 
-#### Freelancing, DigiSkills, Pakistan (Link)
+### Freelancing, DigiSkills, Pakistan (Link)
 
-#### Artificial Intelligence, PantachSalutions, India (Link)
+### Artificial Intelligence, PantachSalutions, India (Link)
 
-#### Machine Learning Algorithm, Great Learning, India (Link)
+### Machine Learning Algorithm, Great Learning, India (Link)
 
-#### Android Applications Development, Great Learning India (Link)
+### Android Applications Development, Great Learning India (Link)
 
-#### Design App, Great Learning India (Link)
+### Design App, Great Learning India (Link)
 
-#### AWS Mobile App Development, Great Learning India (Link)
+### AWS Mobile App Development, Great Learning India (Link)
 
-#### Basics of HTML/CSS for beginners, Open Weaver (Link)
+### Basics of HTML/CSS for beginners, Open Weaver (Link)
 
-#### Basics of JavaScript Programming, Open Weaver (Link)
+### Basics of JavaScript Programming, Open Weaver (Link)
 
-#### JavaScript Essentials 1 (SkillsForAll), Cisco Networking Academy and JavaScript Institute (Link)
+### JavaScript Essentials 1 (SkillsForAll), Cisco Networking Academy and JavaScript Institute (Link)
 
-## Webinars:
+# Webinars:
 
-#### "Alumni Talk On Advancing Your Career In Data Science: Opportunities & Roadblocks" (Data Mites)
+### "Alumni Talk On Advancing Your Career In Data Science: Opportunities & Roadblocks" (Data Mites)
 
-#### "Cracking Data Science Interviews" (Upgrad)
+### "Cracking Data Science Interviews" (Upgrad)
 
-#### "Data Science & Machine Learning Internship Program", Demo Session (Edureka!)
+### "Data Science & Machine Learning Internship Program", Demo Session (Edureka!)
 
-#### Projects (GitHub Repository Links):
+### Projects (GitHub Repository Links):
 
-#### Simple Wallpaper App (android development)
+### Simple Wallpaper App (android development)
 
-#### Code Snippets App (android development)
+### Code Snippets App (android development)
 
-#### GPA Calculator (android development)
+### GPA Calculator (android development)
 
-#### Predicting House Prices (data science) - achieved an accuracy rate of over 80%
+### Predicting House Prices (data science) - achieved an accuracy rate of over 80%
 
-#### Predicting Car Price (data science) - achieved an accuracy rate of over 80%
+### Predicting Car Price (data science) - achieved an accuracy rate of over 80%
 
-#### Interview Question Answer Website (web development)
+### Interview Question Answer Website (web development)
 
-#### To-do List App (React-JS)
+### To-do List App (React-JS)
 
-## Badges:
+# Badges:
 
 #### Learning Enthusiast
 
 #### JSE 1 Cisco Verified
 
-## Data Analysis Visualization:
+# Data Analysis Visualization:
 You can add visualizations of your data analysis tasks using a data visualization library such as Matplotlib, Seaborn, or Plotly. Create charts or graphs that showcase your skills in data visualization and link them in your GitHub README or relevant repositories.
-### Links:
+## Links:
 
-### <a href="https://www.github.com/SyabAhmad">github</a>
+## <a href="https://www.github.com/SyabAhmad">github</a>
 
-## 👇 Few things about me
+# 👇 Few things about me
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad)](https://github.com/SyabAhmad/github-readme-streak-stats)
 
