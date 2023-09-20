@@ -3,7 +3,7 @@
 Motivated software engineering student with a passion for data science, machine learning, and web development. Committed to expanding expertise and staying updated with the latest advancements. Excited to contribute to an innovative team that values challenges. Seeking to make a meaningful impact and grow professionally within a progressive organization.
 
 # Skills:
-
+```
 Web Development: HTML, CSS, Bootstrap, TailWindCSS, JavaScript, React-JS/Next-JS, fetch APIs, Async and Await.
 
 Android Development: Android SDK, Java, Firebase Connectivity, Debugging Android Code.
@@ -15,11 +15,11 @@ Programming Languages: C++, C#, Dart, Python, XML.
 Design and Productivity: Microsoft Office, Blender, Canva, Adobe XD, Figma, Justin mind, Star UML.
 
 Technical Tools: Android Studio, JetBrains Tools, VS Code, git, GitHub.
-
+```
 # Experience:
 
 ## Front-End Developer
-
+```
 Interns.pk, Sindh, Pakistan
 
 Tech Stack: HTML, CSS, Bootstrap, jQuery, PHP, JavaScript, ES6, WordPress
@@ -31,9 +31,9 @@ COVID-19 (jQuery Based APP)
 Responsive Login Form (HTML and CSS)
 
 Product Card (HTML, CSS, Bootstrap)
-
+```
 ## Web Developer
-
+```
 LetsGrowMore, India
 
 ### Notable Projects:
@@ -43,9 +43,9 @@ To-do List App (Live here)
 Basic calculator (GitHub)
 
 Getting Data from API (GitHub)
-
+```
 ## Web Developer
-
+```
 INeoron.ai, India [Accomplishment with Sami Ullah]
 
 ### Notable Projects:
@@ -55,9 +55,9 @@ Music Streaming Application (Live here)
 Basic calculator (GitHub)
 
 Getting Data from API (GitHub)
-
+```
 ## Data Science and Business Analyst Intern
-
+```
 The Spark Foundation, Singapore
 
 ### Notable Projects:
@@ -67,15 +67,9 @@ Testing a score with respect to hours
 Exploratory Data Analysis
 
 Unsupervised machine learning to cluster the flowers in the Iris dataset
-
-# Education:
-
-## Bachelor of Science: Software Engineering, University Of Swat, Charbagh, Pakistan (CGPA 3.1)
-
-## Higher Secondary School Certificate (Pre-Engineering), GHSS Haji Baba Swat (Grade: 634 out of 1100)
-
+```
 # Certifications:
-
+```
 ### Freelancing, DigiSkills, Pakistan (Link)
 
 ### Artificial Intelligence, PantachSalutions, India (Link)
@@ -93,7 +87,8 @@ Unsupervised machine learning to cluster the flowers in the Iris dataset
 ### Basics of JavaScript Programming, Open Weaver (Link)
 
 ### JavaScript Essentials 1 (SkillsForAll), Cisco Networking Academy and JavaScript Institute (Link)
-
+```
+```
 # Webinars:
 
 ### "Alumni Talk On Advancing Your Career In Data Science: Opportunities & Roadblocks" (Data Mites)
@@ -117,15 +112,17 @@ Unsupervised machine learning to cluster the flowers in the Iris dataset
 ### Interview Question Answer Website (web development)
 
 ### To-do List App (React-JS)
-
+```
 # Badges:
-
+```
 #### Learning Enthusiast
 
 #### JSE 1 Cisco Verified
-
+```
 # Data Analysis Visualization:
+```
 You can add visualizations of your data analysis tasks using a data visualization library such as Matplotlib, Seaborn, or Plotly. Create charts or graphs that showcase your skills in data visualization and link them in your GitHub README or relevant repositories.
+```
 ## Links:
 
 ## <a href="https://www.github.com/SyabAhmad">github</a>
