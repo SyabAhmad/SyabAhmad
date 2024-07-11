@@ -1,193 +1,106 @@
-
-# Bio:
-Motivated software engineering student with a passion for data science, machine learning, and web development. Committed to expanding expertise and staying updated with the latest advancements. Excited to contribute to an innovative team that values challenges. Seeking to make a meaningful impact and grow professionally within a progressive organization.
-
-
-# Skills
-
-## Web Development
-- 💻 **Languages:** HTML, CSS, JavaScript
-- 🚀 **Frameworks:** ReactJS/NextJS
-- 🎨 **Styling:** Bootstrap, Tailwind CSS
-- 🌐 **APIs:** Fetch, Async/Await
-
-## Android Development
-- 📱 **Languages:** Java, Dart (Flutter)
-- 🛠️ **Tools:** Android SDK, Android Studio
-- 🚀 **Connectivity:** Firebase
-- 🐞 **Debugging:** Android Code
-
-## Data Science
-- 📊 **Data Processing:** Cleaning, Visualization
-- 🤖 **Modeling:** Machine Learning (Linear Regression, Random Forest)
-- 🐍 **Languages:** Python
-- 📊 **Libraries:** Pandas, Matplotlib, Scikit-Learn
-
-## Programming Languages
-- 🚀 C++, C#, Dart, Python, XML
-
-## Design and Productivity
-- 📝 **Office Suites:** Microsoft Office
-- 🎨 **Design Tools:** Canva, Adobe XD, Figma
-- 🎨 **Prototyping:** Justinmind
-- 🌐 **UML:** Star UML
-- 🖌️ **3D Modeling:** Blender
-
-## Technical Tools
-- 💻 **IDEs:** Android Studio, JetBrains Tools, VS Code
-- 🔄 **Version Control:** Git, GitHub
-
-
-
-# Experience:
-
-### Front-End Developer at Interns.pk, Sindh, Pakistan
-- **Tech Stack:** HTML, CSS, Bootstrap, jQuery, PHP, JavaScript, ES6, WordPress
-
-#### Notable Projects:
-1. **🌐 COVID-19 Dashboard (jQuery Based App)**
-   - Crafted an engaging dashboard for tracking COVID-19 data, making information accessible and user-friendly.
-   - Utilized jQuery for dynamic content updates, ensuring a seamless and interactive experience.
-
-2. **🚀 Responsive Login Form**
-   - Engineered a sleek and responsive login form using HTML and CSS, enhancing user experience across devices.
-
-3. **🛍️ Product Card**
-   - Designed and implemented an eye-catching product card using HTML, CSS, and Bootstrap, contributing to a visually appealing website.
-
----
-
-### Web Developer at LetsGrowMore, India
-#### Notable Projects:
-1. **✅ To-do List App**
-   - Delivered a live to-do list application, promoting efficient task management and productivity. [Live Demo](#)
-
-2. **🔢 Basic Calculator**
-   - Developed a user-friendly basic calculator with a focus on simplicity and functionality. [GitHub Repository](#)
-
-3. **🌐 Getting Data from API**
-   - Successfully retrieved and displayed data from external APIs, showcasing dynamic content integration. [GitHub Repository](#)
-
----
-
-### Web Developer at INeoron.ai, India [Accomplishment with Sami Ullah]
-#### Notable Projects:
-1. **🎵 Music Streaming Application**
-   - Headed the development of a vibrant music streaming application, providing an immersive auditory experience. [Live Demo](#)
-
-2. **🔢 Advanced Calculator**
-   - Engineered a feature-rich calculator with advanced functionalities, demonstrating a commitment to innovation. [GitHub Repository](#)
-
-3. **🌐 Getting Data from API**
-   - Implemented code to fetch and utilize data from external APIs, contributing to data-driven applications. [GitHub Repository](#)
-
----
-
-### Data Science and Business Analyst Intern at The Spark Foundation, Singapore
-#### Notable Projects:
-1. **📚 Testing a Score with Respect to Hours**
-   - Conducted insightful data analysis to understand the relationship between study hours and test scores, contributing to educational insights.
-
-2. **🔍 Exploratory Data Analysis**
-   - Led exploratory data analysis projects, uncovering patterns and trends to guide strategic decision-making.
-
-3. **🌸 Unsupervised Machine Learning on Iris Dataset**
-   - Applied innovative unsupervised machine learning techniques to cluster flowers in the Iris dataset, showcasing a passion for data science exploration.
-
----
-Certainly! Let's make your certifications section more visually appealing and inviting:
-
-# Certifications:
-
-1. **Freelancing, DigiSkills, Pakistan**
-   - Enhance your skills in freelancing and online work. [View Certificate](#)
-
-2. **Artificial Intelligence, PantachSalutions, India**
-   - Dive into the world of Artificial Intelligence. [View Certificate](#)
-
-3. **Machine Learning Algorithm, Great Learning, India**
-   - Master the fundamentals of Machine Learning algorithms. [View Certificate](#)
-
-4. **Android Applications Development, Great Learning India**
-   - Explore the world of Android app development. [View Certificate](#)
-
-5. **Design App, Great Learning India**
-   - Learn the art of designing applications. [View Certificate](#)
-
-6. **AWS Mobile App Development, Great Learning India**
-   - Gain expertise in AWS for mobile app development. [View Certificate](#)
-
-7. **Basics of HTML/CSS for Beginners, Open Weaver**
-   - Start your journey with HTML and CSS. [View Certificate](#)
-
-8. **Basics of JavaScript Programming, Open Weaver**
-   - Master the basics of JavaScript programming. [View Certificate](#)
-
-9. **JavaScript Essentials 1 (SkillsForAll), Cisco Networking Academy and JavaScript Institute**
-   - Explore the essentials of JavaScript programming. [View Certificate](#)
-
----
-
-# Webinars:
-
-1. **"Alumni Talk On Advancing Your Career In Data Science: Opportunities & Roadblocks"**
-   - Hosted by Data Mites
-
-2. **"Cracking Data Science Interviews"**
-   - Conducted by Upgrad
-
-3. **"Data Science & Machine Learning Internship Program"**
-   - Demo Session by Edureka!
-
-# Projects (GitHub Repository Links):
-
-1. **Simple Wallpaper App (Android Development)**
-   - Explore the world of Android development. [GitHub Repository](#)
-
-2. **Code Snippets App (Android Development)**
-   - Share and discover code snippets on the go. [GitHub Repository](#)
-
-3. **GPA Calculator (Android Development)**
-   - Calculate your GPA with ease. [GitHub Repository](#)
-
-4. **Predicting House Prices (Data Science)**
-   - Achieved an accuracy rate of over 80%. [GitHub Repository](#)
-
-5. **Predicting Car Price (Data Science)**
-   - Achieved an accuracy rate of over 80%. [GitHub Repository](#)
-
-6. **Interview Question Answer Website (Web Development)**
-   - Share insights and answers to common interview questions. [GitHub Repository](#)
-
-7. **To-do List App (React-JS)**
-   - Manage tasks efficiently with this React-JS application. [GitHub Repository](#)
-
-
----
-# Badges:
-
-1. **Learning Enthusiast**
-   - Demonstrating commitment to continuous learning.
-
-2. **JSE 1 Cisco Verified**
-
-# Data Analysis Visualization:
-
-## Indian Movies Rating with Respect to Year
-![Indian Movies Rating](https://github.com/SyabAhmad/SyabAhmad/assets/81256221/0eae67f1-8c22-4cc5-a07b-e984490f4b8a)
-
-## Links:
-- [GitHub](https://www.github.com/SyabAhmad)
-
-Feel free to replace the placeholder image link with the actual image link representing your Data Analysis Visualization. This layout provides a neat way to display your badges and showcase a specific data analysis visualization along with relevant links.
-# 👇 Few things about me
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad)](https://github.com/SyabAhmad/github-readme-streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad)](https://github.com/SyabAhmad/github-readme-stats)
-
-[![Syab Ahmad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyabAhmad&theme=github-compact)](https://github.com/SyabAhmad/github-readme-activity-graph)
-
----
-
-*Generated by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph).*
+# **Syed Syab here 👋**
+Junior Machine Learning
+
+###
+
+
+
+###
+
+<p align="left">Motivated software engineering student with a strong interest in applying data science, machine learning, and web development to the field of bioinformatics. Committed to expanding my expertise in both software development and biological research, particularly in leveraging machine learning to unlock new biological insights. Eager to contribute to an innovative team tackling challenging problems in the life sciences. Seeking to make a meaningful impact through research and development within a progressive organization.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<h3 align="left">Profile Views</h3>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/SyabAhmad/count.svg?"  />
+</div>
+
+###
+
+<h3 align="left">Experiences</h3>
+
+###
+
+<p align="left">I've built a strong foundation in web development, with experience in HTML, CSS, JavaScript, and frameworks like Bootstrap. This has allowed me to create engaging applications across various companies. Here are some of the highlights: a user-friendly COVID-19 dashboard, responsive login forms, interactive product cards, and even a live to-do list app.<br><br>My interest in data science is also evident through my internship experience at The Spark Foundation. There, I delved into data analysis tasks, explored machine learning techniques, and even contributed to educational insights. This combination of web development skills and data science exploration allows me to approach problems from a well-rounded perspective.</p>
+
+###
+
+<h3 align="left">Profile Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyabAhmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyabAhmad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me!</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SyedSyab" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.x.com/SyabSays" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/SyedSyab" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/+923460561173" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
