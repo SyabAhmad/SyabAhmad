@@ -7,7 +7,9 @@ Junior Machine Learning
 
 ###
 
-<p align="left">Motivated software engineering student with a strong interest in applying data science, machine learning, and web development to the field of bioinformatics. Committed to expanding my expertise in both software development and biological research, particularly in leveraging machine learning to unlock new biological insights. Eager to contribute to an innovative team tackling challenging problems in the life sciences. Seeking to make a meaningful impact through research and development within a progressive organization.</p>
+<p align="left">Hello! I'm a passionate and driven Machine Learning Engineer and Software Developer with a strong foundation in Data Science, Web Development, and Artificial Intelligence. My journey in technology revolves around solving real-world problems using innovative approaches and cutting-edge technologies. I have a deep interest in Natural Language Processing (NLP), Computer Vision, and building intelligent systems.
+
+I take pride in my ability to conceptualize, design, and implement projects from scratch, bringing creative ideas to life. My experience spans a range of tools, frameworks, and methodologies, and I strive to continuously enhance my skills.</p>
 
 ###
 
@@ -69,7 +71,44 @@ Junior Machine Learning
 
 ###
 
-<p align="left">I've built a strong foundation in web development, with experience in HTML, CSS, JavaScript, and frameworks like Bootstrap. This has allowed me to create engaging applications across various companies. Here are some of the highlights: a user-friendly COVID-19 dashboard, responsive login forms, interactive product cards, and even a live to-do list app.<br><br>My interest in data science is also evident through my internship experience at The Spark Foundation. There, I delved into data analysis tasks, explored machine learning techniques, and even contributed to educational insights. This combination of web development skills and data science exploration allows me to approach problems from a well-rounded perspective.</p>
+### Current Projects
+BioPanel 🧬: A desktop application with an interactive UI, built using Tkinter and MySQL. This app integrates a live camera feed, enabling facial recognition and real-time database lookup. It includes a "New Register" functionality to capture user data and maintain an organized and accessible database. The project focuses on image capture feedback, error handling, data validation, and system resource optimization.
+
+Cardio Vascular Disease (CVD) Prediction ❤️: A deep learning project aimed at predicting cardiovascular disease using Conv1D, CNN+LSTM models, and fully connected dense layers. The trained model is saved as an .h5 file for deployment, and the scaler is stored as a .pkl file for efficient data preprocessing during testing.
+
+Talk to PDF 📚: A Generative AI-based Streamlit app that allows users to interact with PDF documents. By enabling natural language queries, users can search, extract, and summarize content from PDFs in a user-friendly manner. The app is powered by OpenAI Embeddings API to enhance document accessibility and usability.
+
+Chatbot using OpenAI API 🤖: A Streamlit-based ChatGPT clone that allows real-time Q&A with users. It provides a user-friendly interface where users can input questions and receive intelligent, context-aware responses. This app showcases my expertise in API integration and AI-powered conversational agents.
+
+Vid2Txt 🎥: A unique tool that extracts audio from video files using MoviePy, transcribes the audio using Google Speech-to-Text, and classifies the text using the Anthropic API. This multi-functional project demonstrates my capabilities in speech recognition and NLP text classification.
+
+Data Entry App 📊: A simple and intuitive desktop application built using Tkinter and SQL Connector. It performs CRUD (Create, Read, Update, Delete) operations on a MySQL database, showcasing my understanding of database-driven application development.
+
+Subtitle Generator for Videos 📝: A tool that generates subtitles for videos, aligning with modern-day requirements for AI-powered video content analysis. This project combines video processing, speech recognition, and multimedia analysis to create efficient subtitles.
+
+DataFit 📈 (Ongoing): My final year project aimed at building a tool that automates data preprocessing. It focuses on handling missing values, encoding categorical and text data, and normalizing datasets. It also includes feature extraction, transformation, imbalance detection, and selection methods for machine learning tasks.
+
+Classification of Heart Disease 🫀 (Ongoing): A research project that explores the classification of heart disease using machine learning techniques. This project reflects my passion for healthcare AI and predictive analytics.
+
+### Technical Skills
+Machine Learning & AI: CNN, LSTM, Conv1D, Random Forest, Gradient Boosting, Decision Trees, Unsupervised & Supervised Learning, Classification & Regression models.
+Programming Languages: Python, JavaScript, Java, C++, SQL, PHP.
+Web Development: React.js, HTML5, CSS3, Tailwind CSS, Firebase, and experience with frontend/backend integration.
+AI & NLP Tools: OpenAI API, Google Speech-to-Text, OpenAI Embeddings API, Anthropic API.
+Data Science Tools: Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, OpenCV, DataFit, autodatap, SQL, PostgreSQL, MySQL, Microsoft Power BI, and data visualization techniques.
+Software & Tools: Docker, Streamlit, MoviePy, Tkinter, and Git/GitHub for version control.
+
+### Databases
+SQL Databases: MySQL, PostgreSQL, and SQL Connector. I have hands-on experience creating, managing, and optimizing relational databases for efficient data storage, retrieval, and processing.
+What I’m Currently Learning
+
+I'm always on the lookout for the latest advancements in AI, deep learning, and NLP. Currently, I’m delving deeper into:
+
+Building custom CNN and DNN models for text summarization and question-answering systems.
+Enhancing my proficiency in PostgreSQL to handle large-scale, production-grade databases.
+Exploring new methodologies in multi-modal machine learning for more robust AI systems.
+
+
 
 ###
 
@@ -86,7 +125,10 @@ Junior Machine Learning
 
 ###
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Get in Touch</h3>
+
+
+I'm open to collaboration on projects related to AI, machine learning, NLP, and web development. If you have an exciting idea or need support for your project, feel free to connect with me!
 
 ###
 
