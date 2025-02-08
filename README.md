@@ -125,6 +125,9 @@ Exploring new methodologies in multi-modal machine learning for more robust AI s
 
 ###
 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SyabAhmad&theme=dark)](https://git.io/streak-stats)
+
+
 <h3 align="left">Get in Touch</h3>
 
 
@@ -146,5 +149,7 @@ I'm open to collaboration on projects related to AI, machine learning, NLP, and 
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+
+
 
 ###
