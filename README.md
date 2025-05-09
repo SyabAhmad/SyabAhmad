@@ -1,155 +1,294 @@
-# **Syed Syab here 👋**
-Junior Machine Learning
+# 🌟 Welcome to My GitHub! 🌟
 
-###
+Hello! I'm **Syed Syab Ahmad** (aka MenteE's Leader 🥀), a passionate **Machine Learning Engineer** and **Software Developer**. 🚀  
+I specialize in **AI, Deep Learning, Data Science**, and **Web Development**, with a strong focus on building innovative projects. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyabAhmad" alt="SyabAhmad Trophy" /></a> </p>
+## 👨‍💻 About Me
 
-###
+I'm a **Machine Learning Engineer** and **Data Scientist** with a solid foundation in software engineering. Over the years, I have worked on a variety of projects, from AI applications to data-driven solutions. My experience spans **machine learning**, **deep learning**, **data analysis**, **web development**, and **software engineering**.
 
-<p align="left">Hello! I'm a passionate and driven Machine Learning Engineer and Software Developer with a strong foundation in Data Science, Web Development, and Artificial Intelligence. My journey in technology revolves around solving real-world problems using innovative approaches and cutting-edge technologies. I have a deep interest in Natural Language Processing (NLP), Computer Vision, and building intelligent systems.
+Currently, I'm diving deep into **AI Research**, building **Generative AI** systems, and working on projects in **healthcare**, **predictive analytics**, and **automation**. As the **Chief Operating Officer** and **Machine Learning Engineer** at my startup, **AI3**, I focus on leveraging advanced AI technologies to make a real-world impact.
 
-I take pride in my ability to conceptualize, design, and implement projects from scratch, bringing creative ideas to life. My experience spans a range of tools, frameworks, and methodologies, and I strive to continuously enhance my skills.</p>
+I hold degrees in **Software Engineering** and **Electrical Engineering**, along with a variety of certifications in AI and data science. I’m constantly learning and experimenting with new technologies to solve complex problems and improve everyday life.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+## Skills
+| **Programming Languages**                                                             | **Machine Learning**                                                                                               | **Deep Learning**                                                                                  | **Data Science & Analysis**                                                                             | **Web Development**                                                                   | **Tools & Frameworks**                                                                | **Database**                                                                                  |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) Python                   | ![Supervised Learning](https://img.icons8.com/color/48/000000/algorithm.png) Supervised Learning                   | ![CNN](https://img.icons8.com/color/48/000000/deep-learning.png) CNN, LSTM                         | ![Data Visualization](https://img.icons8.com/color/48/000000/chart.png) Data Visualization              | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML                       | ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow       | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL                         |
+| ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++               | ![Unsupervised Learning](https://img.icons8.com/color/48/000000/data-in-both-directions.png) Unsupervised Learning | ![RNN](https://img.icons8.com/color/48/000000/recurrent-neural-network.png) RNN, GRU               | ![Statistical Analysis](https://img.icons8.com/color/48/000000/statistics.png) Statistical Analysis     | ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS                           | ![Keras](https://img.icons8.com/color/48/000000/keras.png) Keras                      | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL              |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript       | ![Regression Models](https://img.icons8.com/color/48/000000/regression.png) Regression Models                      | ![Autoencoders](https://img.icons8.com/color/48/000000/autoencoder.png) Autoencoders               | ![Data Preprocessing](https://img.icons8.com/color/48/000000/processing.png) Data Preprocessing         | ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) React.js          | ![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png) Scikit-Learn |                                                                                               |
+| ![Java](https://img.icons8.com/color/48/000000/java.png) Java                         | ![Clustering](https://img.icons8.com/color/48/000000/cluster.png) Clustering                                       | ![GANs](https://img.icons8.com/color/48/000000/generative-adversarial-network.png) GANs            | ![Feature Engineering](https://img.icons8.com/color/48/000000/engineering.png) Feature Engineering      | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js                 | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas                   | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase                     |
+| ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL                            | ![Classification](https://img.icons8.com/color/48/000000/classification.png) Classification                        | ![Transformers](https://img.icons8.com/color/48/000000/transformer.png) Transformers               | ![Hypothesis Testing](https://img.icons8.com/color/48/000000/scientific-method.png) Hypothesis Testing  | ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS | ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) OpenCV                   |                                                                                               |
+| ![Bash](https://img.icons8.com/color/48/000000/bash.png) Bash/Shell scripting         | ![Reinforcement Learning](https://img.icons8.com/color/48/000000/robot-2.png) Reinforcement Learning               | ![Attention Mechanisms](https://img.icons8.com/color/48/000000/attention.png) Attention Mechanisms | ![Data Mining](https://img.icons8.com/color/48/000000/database-search.png) Data Mining                  | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap          | ![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask                      |                                                                                               |
+| ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5                     | ![Model Evaluation](https://img.icons8.com/color/48/000000/analysis.png) Model Evaluation                          | ![BERT](https://img.icons8.com/color/48/000000/bert.png) BERT                                      | ![Dimensionality Reduction](https://img.icons8.com/color/48/000000/reduce.png) Dimensionality Reduction |                                                                                       | ![MLflow](https://img.icons8.com/color/48/000000/mlflow.png) MLflow                   | ![SQLite](https://img.icons8.com/color/48/000000/sqlite.png) SQLite                           |
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS                           | ![Neural Networks](https://img.icons8.com/color/48/000000/neural-network.png) Neural Networks                      | ![GPT](https://img.icons8.com/color/48/000000/chat.png) GPT                                        | ![Handling Missing Data](https://img.icons8.com/color/48/000000/missing-data.png) Handling Missing Data | ![Git](https://img.icons8.com/color/48/000000/git.png) Git                            | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS            |                                                                                               |
+| ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS | ![Hyperparameter Tuning](https://img.icons8.com/color/48/000000/optimization.png) Hyperparameter Tuning            | ![Computer Vision](https://img.icons8.com/color/48/000000/monitor.png) Computer Vision             | ![Time Series Analysis](https://img.icons8.com/color/48/000000/time-series.png) Time Series Analysis    |                                                                                       | ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) PyTorch                | ![Cloud Firestore](https://img.icons8.com/color/48/000000/cloud-database.png) Cloud Firestore |
+| ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js                 | ![NLP](https://img.icons8.com/color/48/000000/natural-language-processing.png) NLP                                 | ![T5](https://img.icons8.com/color/48/000000/t5.png) T5                                            | ![Feature Scaling](https://img.icons8.com/color/48/000000/scale.png) Feature Scaling                    | ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub                   | ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker                   |                                                                                               |
+| Coming Soon | Coming Soon | Coming Soon | Coming Soon | Coming Soon | Coming Soon
+---
+
+## Projects
+
+|  #  | Project                                                                                       | Description                                                                                     | Technologies                             |
+| :-: | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------- |
+|  1  | [**Mockster.ai**](https://github.com/syabahmad/mockster-ai)                                   | AI-driven interview simulator offering real-time question generation and video-based responses. | React.js, STT, TTS, JWT Authentication   |
+|  2  | [**QuickHire.ai**](https://github.com/syabahmad/quickhire-ai)                                 | AI-powered recruitment toolkit with smart tools like AI email writing and job ad optimization.  | React.js, Supabase, AI Integration       |
+|  3  | [**PySnipify-ML**](https://github.com/syabahmad/pysnipify-ml)                                 | VS Code extension providing ready-to-use Python snippets for machine learning workflows.        | Python, VS Code API, Machine Learning    |
+|  4  | [**Retrieval Augmented Generation**](https://github.com/syabahmad/rag-ecommerce)              | RAG system enabling intelligent search and question-answering for e-commerce platforms.         | Python, PostgreSQL, JavaScript, Groq API |
+|  5  | [**Breast Cancer Classification**](https://github.com/syabahmad/breast-cancer-classification) | Hybrid model using LSTM, CNN, and RNN for accurate breast cancer classification.                | LSTM, CNN, RNN, Python                   |
+|  6  | [**Multiple Face Detection**](https://github.com/syabahmad/multiple-face-detection)           | Real-time face detection system identifying multiple faces in images.                           | OpenCV, Python                           |
+|  7  | [**Wine Classification**](https://github.com/syabahmad/wine-classification)                   | DNN model classifying different wine types based on physicochemical properties.                 | DNN, Python                              |
+|  8  | [**DataFit**](https://github.com/syabahmad/datafit)                                           | Final year project focusing on data preprocessing, normalization, and feature extraction.       | Python, Scikit-Learn                     |
+|  9  | [**Talk to PDF**](https://github.com/syabahmad/talk-to-pdf)                                   | Streamlit app enabling interactive Q\&A with PDF documents using OpenAI Embeddings API.         | Streamlit, OpenAI API                    |
+|  10 | [**Chat Bot using Generative AI**](https://github.com/syabahmad/chatbot-generative-ai)        | Chatbot application providing conversational interface using OpenAI's generative AI API.        | Streamlit, OpenAI API                    |
+|  11 | [**Cardio Vascular Disease Prediction**](https://github.com/syabahmad/cvd-prediction)         | Predictive model for cardiovascular disease using Conv1D, CNN+LSTM, and dense layers.           | Conv1D, CNN+LSTM, Keras                  |
+|  12 | [**Lung Disease Classification**](https://github.com/syabahmad/lung-disease-classification)   | Model for lung disease classification using machine learning techniques.                        | Scikit-Learn, Python                     |
+|  13 | [**Malaria Disease Classification**](https://github.com/syabahmad/malaria-classification)     | Malaria disease classification model using image data.                                          | CNN, Python                              |
+|  14 | [**Video Categorization Classification**](https://github.com/syabahmad/video-categorization)  | Video categorization using the Anthropics API.                                                  | Python, Anthropics API                   |
+|  15 | [**BioPanel**](https://github.com/syabahmad/biopanel)                                         | Tkinter app for person identification using camera feed and MySQL database for matching.        | Python, Tkinter, MySQL                   |
+|  16 | [**Vid2Txt**](https://github.com/syabahmad/vid2txt)                                           | Extracts audio from videos and uses Google Speech-to-Text for transcription.                    | MoviePy, Google Speech-to-Text API       |
+|  17 | [**Subtitle Generator for Videos**](https://github.com/syabahmad/subtitle-generator)          | AI-based subtitle generator for video content.                                                  | Python, OpenCV, AI                       |
+| # | Coming Soon | Coming Soon | Coming Soon
+
+---
+
+## Certification
+
+| **#** | **Certification**                               | **Learning Outcome** | **Link**                                                     |
+| ----: | ----------------------------------------------- | -------------------- | ------------------------------------------------------------ |
+|     1 | Digital Marketing – HubSpot Academy             | Marketing Basics     | [View Certification](https://linkedin.com/in/syedsyab) |
+|     2 | Introduction to Git and GitHub – Gymnasium      | Git Essentials       | [View Certification](https://linkedin.com/in/syedsyab) |
+|     3 | Introduction to SQL – DataFlair                 | SQL Basics           | [View Certification](https://linkedin.com/in/syedsyab) |
+|     4 | Python Dev Bootcamp – Udemy                     | Python Fullstack     | [View Certification](https://linkedin.com/in/syedsyab) |
+|     5 | Data Visualization with PowerBI – Udemy         | Power BI             | [View Certification](https://linkedin.com/in/syedsyab) |
+|     6 | Prompt Engineering for ChatGPT – Great Learning | Prompt Design        | [View Certification](https://linkedin.com/in/syedsyab) |
+|     7 | Basics of Generative AI – OpenWeaver            | GenAI Intro          | [View Certification](https://linkedin.com/in/syedsyab) |
+|     8 | Learn to Code in Python 3 – Udemy               | Python Basics        | [View Certification](https://linkedin.com/in/syedsyab) |
+|     9 | NumPy and Pandas – DataFlair                    | Data Science         | [View Certification](https://linkedin.com/in/syedsyab) |
+|    10 | Data Manipulation with Python – Udemy           | Python Data          | [View Certification](https://linkedin.com/in/syedsyab) |
+|    11 | JavaScript Essentials 1 – Cisco                 | JS Basics            | [View Certification](https://linkedin.com/in/syedsyab) |
+|    12 | Public Speaking – Udemy                         | Communication        | [View Certification](https://linkedin.com/in/syedsyab) |
+|    13 | Machine Learning Algorithms – Great Learning    | ML Models            | [View Certification](https://linkedin.com/in/syedsyab) |
+|    14 | Certificate of Appreciation – NIC Swat          | Internship           | [View Certification](https://linkedin.com/in/syedsyab) |
+
+
+---
+
+### 🧠 **Professional Experience**
+
+<table>
+  <tr>
+    <td>
+
+#### 🚀 **Chief Operating Officer**
+
+*AI3 – Remote, United States*
+📅 *Apr 2024 – Present (1 yr 2 mos)*
+💼 Leading generative AI innovations and internal ops.
+🤖 Built systems with `Groq API`, multi-agent LLM workflows.
+📊 **Skills:** `Python` 🐍 · `Generative AI` 🧠 · `Leadership` 🧑‍💼 · `RAG` 🔍 · `LLMs` 📚
+
+</td>
+<td>
+
+#### 👨‍💻 **Python Developer (Intern)**
+
+*Suvastu Tech – On-site*
+📅 *Oct 2024 – Jan 2025 (4 mos)*
+💡 Built RAG chat systems and custom ETL pipelines.
+🤝 Collaborated with cross-functional teams.
+📊 **Skills:** `Python` 🐍 · `Pandas` 📊 · `NumPy` ➗ · `PostgreSQL` 🛢️ · `Scikit-Learn` 🧪 · `Matplotlib` 📈
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### 🤖 **Software Engineer**
+
+*AI3 – Remote*
+📅 *Nov 2023 – Apr 2024 (6 mos)*
+⚙️ Developed intelligent tools: Article Generator, TTS, Ad Creatives.
+🧠 Worked on content and blog automation.
+📊 **Skills:** `Python` 🐍 · `Generative AI` 🧠
+
+</td>
+<td>
+
+#### 🌐 **Student Ambassador**
+
+*BLACKBOX.AI – Remote*
+📅 *Nov 2024 – Present (7 mos)*
+🎤 Promoting AI tools, networking, community engagement.
+📊 **Skills:** `Advocacy` 🎯 · `Community Building` 🧩
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### 📈 **Machine Learning Intern**
+
+*SkillBuild – Remote (India)*
+📅 *Aug 2024 – Sep 2024 (2 mos)*
+🔍 Worked on core ML models using clean datasets.
+📊 **Skills:** `Python` 🐍 · `Pandas` 📊 · `NumPy` ➗ · `Scikit-Learn` 🧪
+
+</td>
+<td>
+
+#### 📊 **Machine Learning Intern**
+
+*InternCareer – Remote (India)*
+📅 *Nov 2023 – Dec 2023 (2 mos)*
+💡 Built basic ML pipelines and models.
+📊 **Skills:** `Python` 🐍 · `Scikit-Learn` 🧪
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### 📚 **Machine Learning Intern**
+
+*CodeAlpha – Remote (India)*
+📅 *Sep 2023 – Nov 2023 (3 mos)*
+📈 Implemented beginner-level models in `Python`.
+📊 **Skills:** `Python` 🐍
+
+</td>
+<td>
+
+#### 📉 **Data Science Intern**
+
+*CodSoft – Remote (India)*
+📅 *Sep 2023 – Oct 2023 (2 mos)*
+📊 Worked on `Linear Regression`, `Pandas`, `NumPy`.
+📊 **Skills:** `Python` 🐍 · `Machine Learning` 🧠 · `Pandas` 📊
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### 💻 **Frontend Web Developer**
+
+*Interns Pakistan – Remote*
+📅 *Aug 2023 – Sep 2023 (2 mos)*
+🎨 Created UI components and handled front-end logic.
+📊 **Skills:** `HTML` 🌐 · `CSS` 🎨 · `JavaScript` ⚙️
+
+</td>
+<td>
+
+#### 🌍 **Web Developer**
+
+*LetsGrowMore – Remote (India)*
+📅 *Jul 2023 – Sep 2023 (3 mos)*
+🛠️ Developed small web projects using `React.js`.
+📊 **Skills:** `HTML` 🌐 · `CSS` 🎨 · `JavaScript` ⚙️ · `React.js` ⚛️
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### 🔧 **Web Developer**
+
+*iNeuron.ai – Remote (India)*
+📅 *Jun 2023 – Aug 2023 (3 mos)*
+⚙️ Created responsive layouts with Tailwind + React.
+📊 **Skills:** `HTML5` 🌐 · `Tailwind CSS` 🎨 · `React.js` ⚛️
+
+</td>
+<td>
+
+#### 📈 **Data Science & Business Analytics Intern**
+
+*The Sparks Foundation – Remote*
+📅 *May 2023 – Jul 2023 (3 mos)*
+📊 Built dashboards and visualizations for data tasks.
+📊 **Skills:** `Data Visualization` 📊 · `Python` 🐍
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### 📱 **Junior Java Developer**
+
+*Freelance*
+📅 *Dec 2022 – Jul 2023 (8 mos)*
+📲 Developed Android UIs using `Java` and `XML`.
+📊 **Skills:** `Java` ☕ · `Android Design` 📱
+
+</td>
+<td>
+
+#### 🌐 **Frontend Web Developer**
+
+*Freelance*
+📅 *Aug 2021 – Jul 2023 (2 yrs)*
+💡 Worked on multiple client-based websites.
+📊 **Skills:** `HTML` 🌐 · `CSS` 🎨 · `JavaScript` ⚙️
+
+</td>
+</tr>
+
+</table>
+
+---
+
+### 🎓 Education
+
+| **Degree**                                             | **Institution**                                             | **Dates**                    | **Activities/Societies**             | **Skills**                                        |
+|--------------------------------------------------------|-------------------------------------------------------------|------------------------------|--------------------------------------|--------------------------------------------------|
+| **Bachelor of Science (BS), Software Engineering** _(Mar 2020 - Mar 2024)_ | University of Swat, Pakistan                                | Mar 2020 - Mar 2024          | Programming                          | Python, C++, Scikit-Learn                      |
+| **Artificial Intelligence Master Class** _(Oct 2022 - Dec 2022)_ | Pantech Prolabs India Pvt Ltd                               | Oct 2022 - Dec 2022          |                                      | Python                                          |
+| **Intermediate, Pre-Engineering** _(Apr 2018 - Apr 2020)_  | Government Secondary School Haji Baba                       | Apr 2018 - Apr 2020          |                                      |                                                  |
+| **Matriculation, Science** _(Mar 2008 - Apr 2018)_       | Islamic University Model High School Kokrai                | Mar 2008 - Apr 2018          |                                      | Grade: 853                                       |
+
+---
+
+### 🌐 Public Profiles & Social Links
+
+<a href="https://github.com/SyabAhmad"><img src="https://github.com/favicon.ico" width="50" height="50" /></a>
+<a href="https://linkedin.com/in/syedsyab"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="150" height="50" /></a>
+<a href="https://linktr.ee/syedsyab"><img src="https://linktr.ee/favicon.ico" width="50" height="50" /></a>
+<a href="https://huggingface.co/SyedSyab"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" /></a>
+<a href="https://syab.link"><img src="https://www.gravatar.com/favicon.ico" width="50" height="50" /></a>
+<a href="https://syabblogger.medium.com"><img src="https://medium.com/favicon.ico" width="50" height="50" /></a>
+<a href="https://about.me/syedsyab"><img src="https://about.me/favicon.ico" width="50" height="50" /></a>
+<a href="https://pinterest.com/de_Developer"><img src="https://www.pinterest.com/favicon.ico" width="50" height="50" /></a>
+<a href="https://orcid.org/0009-0003-9183-582X"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="50" height="50" /></a>
+<a href="https://reddit.com/u/SyabAhmad"><img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" width="50" height="50" /></a>
+<a href="https://x.com/SyabSays"><img src="https://abs.twimg.com/favicons/twitter.2.ico" width="50" height="50" /></a>
+<a href="https://instagram.com/SyedSyab"><img src="https://instagram.com/favicon.ico" width="50" height="50" /></a>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SyabAhmad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+[![SyabAhmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SyabAhmad&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
+<div align="center">
+
+  <h3>🚀 This is just the beginning...</h3>
+  <p><strong>Stay tuned.</strong><br>
+  — <em>Syed Syab Ahmad</em> ( <strong>MenteE's Leader 🥀</strong> )</p>
+
 </div>
-
-###
-
-<h3 align="left">Profile Views</h3>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/SyabAhmad/count.svg?"  />
-</div>
-
-###
-
-<h3 align="left">Experiences</h3>
-
-###
-
-### Current Projects
-BioPanel 🧬: A desktop application with an interactive UI, built using Tkinter and MySQL. This app integrates a live camera feed, enabling facial recognition and real-time database lookup. It includes a "New Register" functionality to capture user data and maintain an organized and accessible database. The project focuses on image capture feedback, error handling, data validation, and system resource optimization.
-
-Cardio Vascular Disease (CVD) Prediction ❤️: A deep learning project aimed at predicting cardiovascular disease using Conv1D, CNN+LSTM models, and fully connected dense layers. The trained model is saved as an .h5 file for deployment, and the scaler is stored as a .pkl file for efficient data preprocessing during testing.
-
-Talk to PDF 📚: A Generative AI-based Streamlit app that allows users to interact with PDF documents. By enabling natural language queries, users can search, extract, and summarize content from PDFs in a user-friendly manner. The app is powered by OpenAI Embeddings API to enhance document accessibility and usability.
-
-Chatbot using OpenAI API 🤖: A Streamlit-based ChatGPT clone that allows real-time Q&A with users. It provides a user-friendly interface where users can input questions and receive intelligent, context-aware responses. This app showcases my expertise in API integration and AI-powered conversational agents.
-
-Vid2Txt 🎥: A unique tool that extracts audio from video files using MoviePy, transcribes the audio using Google Speech-to-Text, and classifies the text using the Anthropic API. This multi-functional project demonstrates my capabilities in speech recognition and NLP text classification.
-
-Data Entry App 📊: A simple and intuitive desktop application built using Tkinter and SQL Connector. It performs CRUD (Create, Read, Update, Delete) operations on a MySQL database, showcasing my understanding of database-driven application development.
-
-Subtitle Generator for Videos 📝: A tool that generates subtitles for videos, aligning with modern-day requirements for AI-powered video content analysis. This project combines video processing, speech recognition, and multimedia analysis to create efficient subtitles.
-
-DataFit 📈 (Ongoing): My final year project aimed at building a tool that automates data preprocessing. It focuses on handling missing values, encoding categorical and text data, and normalizing datasets. It also includes feature extraction, transformation, imbalance detection, and selection methods for machine learning tasks.
-
-Classification of Heart Disease 🫀 (Ongoing): A research project that explores the classification of heart disease using machine learning techniques. This project reflects my passion for healthcare AI and predictive analytics.
-
-### Technical Skills
-Machine Learning & AI: CNN, LSTM, Conv1D, Random Forest, Gradient Boosting, Decision Trees, Unsupervised & Supervised Learning, Classification & Regression models.
-Programming Languages: Python, JavaScript, Java, C++, SQL, PHP.
-Web Development: React.js, HTML5, CSS3, Tailwind CSS, Firebase, and experience with frontend/backend integration.
-AI & NLP Tools: OpenAI API, Google Speech-to-Text, OpenAI Embeddings API, Anthropic API.
-Data Science Tools: Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, OpenCV, DataFit, autodatap, SQL, PostgreSQL, MySQL, Microsoft Power BI, and data visualization techniques.
-Software & Tools: Docker, Streamlit, MoviePy, Tkinter, and Git/GitHub for version control.
-
-### Databases
-SQL Databases: MySQL, PostgreSQL, and SQL Connector. I have hands-on experience creating, managing, and optimizing relational databases for efficient data storage, retrieval, and processing.
-What I’m Currently Learning
-
-I'm always on the lookout for the latest advancements in AI, deep learning, and NLP. Currently, I’m delving deeper into:
-
-Building custom CNN and DNN models for text summarization and question-answering systems.
-Enhancing my proficiency in PostgreSQL to handle large-scale, production-grade databases.
-Exploring new methodologies in multi-modal machine learning for more robust AI systems.
-
-
-
-###
-
-<h3 align="left">Profile Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyabAhmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyabAhmad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SyabAhmad&theme=dark)](https://git.io/streak-stats)
-
-
-<h3 align="left">Get in Touch</h3>
-
-
-I'm open to collaboration on projects related to AI, machine learning, NLP, and web development. If you have an exciting idea or need support for your project, feel free to connect with me!
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/SyedSyab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.x.com/SyabSays" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/SyedSyab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/+923460561173" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-
-
-###
