@@ -13,6 +13,10 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SyabAhmad&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ## Skills
 | **Programming Languages**                                                             | **Machine Learning**                                                                                               | **Deep Learning**                                                                                  | **Data Science & Analysis**                                                                             | **Web Development**                                                                   | **Tools & Frameworks**                                                                | **Database**                                                                                  |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -279,8 +283,6 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
 
 [![SyabAhmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyabAhmad&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
