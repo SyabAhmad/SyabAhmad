@@ -255,10 +255,10 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
 
 | **Degree**                                             | **Institution**                                             | **Dates**                    | **Activities/Societies**             | **Skills**                                        |
 |--------------------------------------------------------|-------------------------------------------------------------|------------------------------|--------------------------------------|--------------------------------------------------|
-| **Bachelor of Science (BS), Software Engineering** _(Mar 2020 - Mar 2024)_ | University of Swat, Pakistan                                | Mar 2020 - Mar 2024          | Programming                          | Python, C++, Scikit-Learn                      |
-| **Artificial Intelligence Master Class** _(Oct 2022 - Dec 2022)_ | Pantech Prolabs India Pvt Ltd                               | Oct 2022 - Dec 2022          |                                      | Python                                          |
-| **Intermediate, Pre-Engineering** _(Apr 2018 - Apr 2020)_  | Government Secondary School Haji Baba                       | Apr 2018 - Apr 2020          |                                      |                                                  |
-| **Matriculation, Science** _(Mar 2008 - Apr 2018)_       | Islamic University Model High School Kokrai                | Mar 2008 - Apr 2018          |                                      | Grade: 853                                       |
+| **Bachelor of Science (BS), Software Engineering** _()_ | University of Swat, Pakistan                                |           | Programming                          | Python, C++, Scikit-Learn                      |
+| **Artificial Intelligence Master Class** _()_ | Pantech Prolabs India Pvt Ltd                               |           |                                      | Python                                          |
+| **Intermediate, Pre-Engineering** _()_  | Government Secondary School Haji Baba                       |           |                                      |                                                  |
+| **Matriculation, Science** _()_       | Islamic University Model High School Kokrai                |           |                                      | Grade: 853                                       |
 
 ---
 
