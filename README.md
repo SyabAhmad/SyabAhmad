@@ -1,5 +1,7 @@
 # 🌟 Welcome to My GitHub! 🌟
 
+Portfolio: https://syab.tech
+
 Hello! I'm **Syed Syab Ahmad** (aka MenteE's Leader 🥀), a passionate **Machine Learning Engineer** and **Software Developer**. 🚀  
 I specialize in **AI, Deep Learning, Data Science**, and **Web Development**, with a strong focus on building innovative projects. 
 
@@ -257,8 +259,6 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
 |--------------------------------------------------------|-------------------------------------------------------------|------------------------------|--------------------------------------|--------------------------------------------------|
 | **Bachelor of Science (BS), Software Engineering** _()_ | University of Swat, Pakistan                                |           | Programming                          | Python, C++, Scikit-Learn                      |
 | **Artificial Intelligence Master Class** _()_ | Pantech Prolabs India Pvt Ltd                               |           |                                      | Python                                          |
-| **Intermediate, Pre-Engineering** _()_  | Government Secondary School Haji Baba                       |           |                                      |                                                  |
-| **Matriculation, Science** _()_       | Islamic University Model High School Kokrai                |           |                                      | Grade: 853                                       |
 
 ---
 
@@ -294,3 +294,4 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
   — <em>Syed Syab Ahmad</em> ( <strong>MenteE's Leader 🥀</strong> )</p>
 
 </div>
+
