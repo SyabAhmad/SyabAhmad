@@ -278,13 +278,10 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
 <a href="https://instagram.com/SyedSyab"><img src="https://instagram.com/favicon.ico" width="50" height="50" /></a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SyabAhmad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![SyabAhmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SyabAhmad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 <div align="center">
@@ -294,4 +291,5 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
   — <em>Syed Syab Ahmad</em> ( <strong>MenteE's Leader 🥀</strong> )</p>
 
 </div>
+
 
