@@ -61,23 +61,22 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
 ---
 
 ## Certification
-
-| **#** | **Certification**                               | **Learning Outcome** | **Link**                                                     |
-| ----: | ----------------------------------------------- | -------------------- | ------------------------------------------------------------ |
-|     1 | Digital Marketing – HubSpot Academy             | Marketing Basics     | [View Certification](https://linkedin.com/in/syedsyab) |
-|     2 | Introduction to Git and GitHub – Gymnasium      | Git Essentials       | [View Certification](https://linkedin.com/in/syedsyab) |
-|     3 | Introduction to SQL – DataFlair                 | SQL Basics           | [View Certification](https://linkedin.com/in/syedsyab) |
-|     4 | Python Dev Bootcamp – Udemy                     | Python Fullstack     | [View Certification](https://linkedin.com/in/syedsyab) |
-|     5 | Data Visualization with PowerBI – Udemy         | Power BI             | [View Certification](https://linkedin.com/in/syedsyab) |
-|     6 | Prompt Engineering for ChatGPT – Great Learning | Prompt Design        | [View Certification](https://linkedin.com/in/syedsyab) |
-|     7 | Basics of Generative AI – OpenWeaver            | GenAI Intro          | [View Certification](https://linkedin.com/in/syedsyab) |
-|     8 | Learn to Code in Python 3 – Udemy               | Python Basics        | [View Certification](https://linkedin.com/in/syedsyab) |
-|     9 | NumPy and Pandas – DataFlair                    | Data Science         | [View Certification](https://linkedin.com/in/syedsyab) |
-|    10 | Data Manipulation with Python – Udemy           | Python Data          | [View Certification](https://linkedin.com/in/syedsyab) |
-|    11 | JavaScript Essentials 1 – Cisco                 | JS Basics            | [View Certification](https://linkedin.com/in/syedsyab) |
-|    12 | Public Speaking – Udemy                         | Communication        | [View Certification](https://linkedin.com/in/syedsyab) |
-|    13 | Machine Learning Algorithms – Great Learning    | ML Models            | [View Certification](https://linkedin.com/in/syedsyab) |
-|    14 | Certificate of Appreciation – NIC Swat          | Internship           | [View Certification](https://linkedin.com/in/syedsyab) |
+| **#** | **Certification**                               | **Learning Outcome** | **Link**                                                     | **Year** |
+| ----: | ----------------------------------------------- | -------------------- | ------------------------------------------------------------ | -------- |
+|     1 | Digital Marketing – HubSpot Academy             | Marketing Basics     | [View Certification](https://linkedin.com/in/syedsyab) | 2023 |
+|     2 | Introduction to Git and GitHub – Gymnasium      | Git Essentials       | [View Certification](https://linkedin.com/in/syedsyab) | 2023 |
+|     3 | Introduction to SQL – DataFlair                 | SQL Basics           | [View Certification](https://linkedin.com/in/syedsyab) | 2023 |
+|     4 | Python Dev Bootcamp – Udemy                     | Python Fullstack     | [View Certification](https://linkedin.com/in/syedsyab) | 2023 |
+|     5 | Data Visualization with PowerBI – Udemy         | Power BI             | [View Certification](https://linkedin.com/in/syedsyab) | 2024 |
+|     6 | Prompt Engineering for ChatGPT – Great Learning | Prompt Design        | [View Certification](https://linkedin.com/in/syedsyab) | 2024 |
+|     7 | Basics of Generative AI – OpenWeaver            | GenAI Intro          | [View Certification](https://linkedin.com/in/syedsyab) | 2024 |
+|     8 | Learn to Code in Python 3 – Udemy               | Python Basics        | [View Certification](https://linkedin.com/in/syedsyab) | 2024 |
+|     9 | NumPy and Pandas – DataFlair                    | Data Science         | [View Certification](https://linkedin.com/in/syedsyab) | 2024 |
+|    10 | Data Manipulation with Python – Udemy           | Python Data          | [View Certification](https://linkedin.com/in/syedsyab) | 2024 |
+|    11 | JavaScript Essentials 1 – Cisco                 | JS Basics            | [View Certification](https://linkedin.com/in/syedsyab) | 2025 |
+|    12 | Public Speaking – Udemy                         | Communication        | [View Certification](https://linkedin.com/in/syedsyab) | 2025 |
+|    13 | Machine Learning Algorithms – Great Learning    | ML Models            | [View Certification](https://linkedin.com/in/syedsyab) | 2025 |
+|    14 | Certificate of Appreciation – NIC Swat          | Internship           | [View Certification](https://linkedin.com/in/syedsyab) | 2025 |
 
 
 ---
@@ -264,24 +263,111 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
 
 ### 🌐 Public Profiles & Social Links
 
-<a href="https://github.com/SyabAhmad"><img src="https://github.com/favicon.ico" width="50" height="50" /></a>
-<a href="https://linkedin.com/in/syedsyab"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="150" height="50" /></a>
-<a href="https://linktr.ee/syedsyab"><img src="https://linktr.ee/favicon.ico" width="50" height="50" /></a>
-<a href="https://huggingface.co/SyedSyab"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" /></a>
-<a href="https://syab.link"><img src="https://www.gravatar.com/favicon.ico" width="50" height="50" /></a>
-<a href="https://syabblogger.medium.com"><img src="https://medium.com/favicon.ico" width="50" height="50" /></a>
-<a href="https://about.me/syedsyab"><img src="https://about.me/favicon.ico" width="50" height="50" /></a>
-<a href="https://pinterest.com/de_Developer"><img src="https://www.pinterest.com/favicon.ico" width="50" height="50" /></a>
-<a href="https://orcid.org/0009-0003-9183-582X"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="50" height="50" /></a>
-<a href="https://reddit.com/u/SyabAhmad"><img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" width="50" height="50" /></a>
-<a href="https://x.com/SyabSays"><img src="https://abs.twimg.com/favicons/twitter.2.ico" width="50" height="50" /></a>
-<a href="https://instagram.com/SyedSyab"><img src="https://instagram.com/favicon.ico" width="50" height="50" /></a>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="padding:6px;">
+      <a href="https://github.com/SyabAhmad">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://linkedin.com/in/syedsyab">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://x.com/SyabSays">
+        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="X" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://instagram.com/SyedSyab">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://huggingface.co/SyedSyab">
+        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://linktr.ee/syedsyab">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linktree.svg" alt="Linktree" width="48" height="48" style="filter: invert(1);"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="padding:6px;">
+      <a href="https://syab.link">
+        <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Website" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://syabblogger.medium.com">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="48" height="48" style="filter: invert(1);"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://about.me/syedsyab">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="About.me" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://pinterest.com/de_Developer">
+        <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="Pinterest" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://orcid.org/0009-0003-9183-582X">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center" style="padding:6px;">
+      <a href="https://reddit.com/u/SyabAhmad">
+        <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="48" height="48"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![SyabAhmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SyabAhmad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+
+<<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&layout=compact&theme=tokyonight" alt="Top Langs" width="300px"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="350px"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="350px"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyabAhmad&theme=tokyo-night)
 ---
 
 <div align="center">
@@ -291,5 +377,6 @@ I hold degrees in **Software Engineering** and **Electrical Engineering**, along
   — <em>Syed Syab Ahmad</em> ( <strong>MenteE's Leader 🥀</strong> )</p>
 
 </div>
+
 
 
