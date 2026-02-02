@@ -304,7 +304,17 @@ Leading the company's vision, strategy, and daily operations with focus on:
 <br>
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyabAhmad&theme=tokyonight&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&layout=compact&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=tokyonight)
+## GitHub Stats Test
+
+![Streak](https://streak-stats.demolab.com?user=SyabAhmad)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SyabAhmad&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
@@ -348,3 +358,4 @@ I'm always open to collaborations, interesting projects, and opportunities to le
   ⭐ **If you find my projects helpful, please consider giving them a star!** ⭐
 
 </div>
+
