@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1f6feb,100:8957e5&section=header" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1f6feb,100:8957e5&section=header" alt="banner"/> <br/>
 
   <img src="https://raw.githubusercontent.com/SyabAhmad/SyabAhmad/main/Profile%20Picture.jpg" width="150" alt="Syed Syab Ahmad"/>
 
