@@ -42,14 +42,14 @@ By day I run **[MenteE](https://www.menteeai.org)** — the AI product studio wh
 ### 📊 Player stats — live from the GitHub API
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-4%2C726-3fb950?style=for-the-badge" alt="contributions"/>
-  <img src="https://img.shields.io/badge/Commits-3%2C824-dd2e44?style=for-the-badge" alt="commits"/>
-  <img src="https://img.shields.io/badge/Repos-290-ff9966?style=for-the-badge" alt="repos"/>
-  <img src="https://img.shields.io/badge/PRs-123-5319e7?style=for-the-badge" alt="pull requests"/>
-  <img src="https://img.shields.io/badge/Stars_earned-26-gold?style=for-the-badge" alt="stars"/>
-  <img src="https://img.shields.io/badge/Current_streak-29_days-b60205?style=for-the-badge" alt="current streak"/>
-  <img src="https://img.shields.io/badge/Longest_streak-109_days-8957e5?style=for-the-badge" alt="longest streak"/>
-  <img src="https://img.shields.io/badge/Repos_authored-222-0d1117?style=for-the-badge" alt="repos authored"/>
+  
+<img src="https://ghstats.dev/api/mini?username=SyabAhmad&metric=contributions&style=for-the-badge" alt="Contributions"/>
+<img src="https://ghstats.dev/api/mini?username=SyabAhmad&metric=commits&style=for-the-badge" alt="Commits"/>
+<img src="https://ghstats.dev/api/mini?username=SyabAhmad&metric=repos&style=for-the-badge" alt="Repos"/>
+<img src="https://ghstats.dev/api/mini?username=SyabAhmad&metric=prs&style=for-the-badge" alt="Pull requests"/>
+<img src="https://ghstats.dev/api/mini?username=SyabAhmad&metric=stars&style=for-the-badge" alt="Stars"/>
+<img src="https://ghstats.dev/api/mini?username=SyabAhmad&metric=streak&style=for-the-badge" alt="Current streak"/>
+
 </div>
 
 <div align="center">
