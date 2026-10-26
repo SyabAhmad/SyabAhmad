@@ -54,7 +54,7 @@ By day I run **[MenteE](https://www.menteeai.org)** — the AI product studio wh
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SyabAhmad&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=SyabAhmad&theme=tokyonight&hide_border=false" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=SyabAhmad&theme=tokyonight&hide_border=false&timezone=Asia%2FRiyadh" alt="GitHub streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyabAhmad&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages"/>
 </div>
 
